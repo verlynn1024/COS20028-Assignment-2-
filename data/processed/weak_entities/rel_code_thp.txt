@@ -1,0 +1,1249 @@
+A1	Nyaki Nyaki
+A1	Njaki Njaki people A1
+A10	Ngurlu people A10
+A100	
+A101	
+A102	
+A103	
+A104	
+A105	
+A106	
+A107	
+A108	
+A109	
+A11	Waljen people A11
+A110	
+A111	
+A112	Ngunuru people A112
+A113	
+A114	
+A115	
+A116	
+A117	
+A118	
+A119	
+A12	Wangkatha people A12
+A120	
+A121	
+A122	
+A123	
+A124	
+A13	Widi people A13
+A14	Badimaya people A14
+A16	Kuwarra people A16
+A17	Nangadadjara
+A17	Nyanganyatjara people A17
+A18	Muliara people A18
+A19	Wardal people A19
+A2	Kalarku people A2
+A20	Wilyara people A20
+A21	Gula people A21
+A22	Marawa people A22
+A23	Mangula people A23
+A24	Gurduwanga people A24
+A25	Birniridjara people A25
+A26	Djalgandi people A26
+A27	Mudalga people A27
+A28	Bunggura people A28
+A29	Wawula people A29
+A3	Ngadju people A3
+A30	Ngadawanga people A30
+A31	Tjupan people A31
+A32	Nakako people A32
+A33	Mantjintjarra people A33
+A34	Mangu people A34
+A35	Konin people A35
+A36	
+A37	Nanadjara people A37
+A38	Ngaanyatjarra people A38
+A38.1	
+A39	Wajarri people A39
+A39.1	
+A4	Kaalamaya people A4
+A40	Birdungu people A40
+A41	Madoidja people A41
+A42	
+A43	Ngaatjatjarra people A43
+A44	
+A48	Ngarla people A48
+A49	Wirdinya people A49
+A5	Nungara people A5
+A50	Nyiyaparli people A50
+A51	Kartujarra people A51
+A51.1	Manyjilyjarra people A51.1
+A52	Kiyajarra people A52
+A53	Banyjima people A53
+A54	Putijarra people A54
+A55	Palyku people A55
+A56	Dargudi people A56
+A58	Nyamal people A58
+A59	Ibarga people A59
+A6	Maduwongga people A6
+A60	Widagari people A60
+A61	Nyangumarta people A61
+A62	Warnman people A62
+A63	Waringari people A63
+A64	Karajarri people A64
+A65	Mangala people A65
+A66	Walmajarri people A66
+A67	Yulparija people A67
+A68	Kukatja people A68
+A69	Bunara people A69
+A7	
+A70	
+A71	
+A72	
+A73	
+A74	
+A75	
+A76	
+A77	
+A78	
+A79	Yinhawangka people A79
+A8	Murunitja people A8
+A80	Western Desert people A80
+A81	
+A82	
+A83	
+A84	
+A85	Kurajarra people A85
+A86	
+A87	Wangkajunga people A87
+A88	Juwaliny people A88
+A89	
+A9	Mirniny people A9
+A90	
+A91	
+A92	
+A93	
+A94	
+A95	
+A96	
+A97	
+A98	
+A99	
+C1	Wirangu people C1
+C10	Pintupi people C10
+C11	Yumu people C11
+C12	Antekerrepenhe people C12
+C13	Kaytetye people C13
+C14	Alyawarr people C14
+C15	Yapa people C15
+C15.1	Wakirti Warlpiri people C15.1
+C16	Wakaya people C16
+C17	Warlmanpa people C17
+C18	Warumungu people C18
+C19	Wambaya people C19
+C2	Ngalia people C2
+C20	Gurindji people C20
+C21	Pinkangarna people C21
+C22	Jingili people C22
+C23	Gunindirri people C23
+C24	Manu people C24
+C25	Mudburra people C25
+C26	Gudanji people C26
+C27	Ngarinyman people C27
+C28	Akarre people C28
+C29	Lower Arrente people C29
+C3	Kokatha people C3
+C30	
+C31	
+C32	
+C33	Karrangpurru people C33
+C34	
+C35	
+C36	
+C37	
+C38	
+C39	
+C4	Yankunytjatjara people C4
+C40	
+C41	
+C42	
+C43	Ngaliya people C43
+C44	
+C45	
+C46	Pertame people C46
+C47	Western Arrarnta people C47
+C48	Arandic people C48
+C5	Antikirinya people C5
+C6	Pitjantjatjara people C6
+C7	Kukatja people C7
+C7.1	Luritja people C7.1
+C8	Arrernte people C8
+C8.1	Anmatyerr people C8.1
+C9	Wanggamala people C9
+D1	Wemba Wemba people D1
+D10	Wiradjuri people D10
+D11	Pulaali people D11
+D12	Paakantyi
+D12	Paakantji
+D12	Barkindji people D12
+D13	
+D14	Thangkaali people D14
+D15	Guyinbaraay people D15
+D16	Wilyakali people D16
+D17	Pantyikali people D17
+D18	Wangaaypuwan people D18
+D19	Nhaawuparlku people D19
+D2	Yorta Yorta people D2
+D20	Wayilwan people D20
+D21	
+D22	Ngiyampaa
+D22	Ngempa people D22
+D23	Gamilaraay
+D23	Gamilaroi
+D23	Kamilaroi people D23
+D24	Southern Anaiwan people D24
+D25	Kurnu people D25
+D26	Barranbinya people D26
+D27	Yuwaalaraay people D27
+D28	Wiriyaraay people D28
+D29	Gambuwal people D29
+D3	Ngunawal
+D3	Ngunnawal people D3
+D30	Kullilli people D30
+D31	Budjari
+D31	Badjiri people D31
+D32	Muruwari people D32
+D33	Guwamu people D33
+D34	Bigambul people D34
+D35	Guyambal people D35
+D36	Geynyan people D36
+D37	Gunggari people D37
+D38	Kogai people D38
+D39	Gawambaraay people D39
+D4	Wadi Wadi people D4
+D40	Barunggam people D40
+D41	Giabal people D41
+D42	Margany people D42
+D43	Gunya people D43
+D44	Mandandanji people D44
+D45	Wadjalang
+D45	Dharawala people D45
+D46	Nguri people D46
+D47	PaaRuntyi people D47
+D48	
+D49	
+D5	Barababaraba people D5
+D50	
+D51	
+D52	
+D53	
+D54	Yuwaalayaay people D54
+D55	
+D56	
+D57	
+D58	
+D59	
+D6	Marrawarra people D6
+D6.1	Kureinji people D6.1
+D60	
+D61	
+D62	
+D63	Gweagal people D63
+D64	
+D65	
+D66	
+D67	
+D68	
+D69	
+D7	Yitha Yitha people D7
+D70	
+D71	
+D8	Mutti Mutti
+D8	Muthi Muthi people D8
+D9	Nari Nari people D9
+E1	Geawegal people E1
+E10	Yaegl people E10
+E11	Yugambal people E11
+E12	Bundjalung people E12
+E13	Arakwal people E13
+E14	Gidhabal people E14
+E15	Galibal people E15
+E15.1	
+E16	Wiyabal people E16
+E16.1	Dinggabal people E16.1
+E16.2	
+E17	Yugambeh people E17
+E18	Minyangbal people E18
+E19	Goenpul people E19
+E2	Warrimay people E2
+E20	Duungidjawu people E20
+E21	Noonuccal people E21
+E22	Ngoera people E22
+E23	Yuggera people E23
+E24	Buyibara people E24
+E25	Dalla people E25
+E26	Ngugi people E26
+E27	Djagunda people E27
+E28	Wakka Wakka people E28
+E29	Gubbi Gubbi people E29
+E3	Birrbay people E3
+E30	Butchulla people E30
+E31	Yiman people E31
+E32	Gooreng Gooreng people E32
+E33	Taribelang people E33
+E35	Gungabula people E35
+E36	Goeng Goeng people E36
+E37	Bidjara
+E37	Bidyara people E37
+E38	Garaynbal people E38
+E39	Wadjigu people E39
+E4	Ngaku people E4
+E40	Gangulu people E40
+E41	Tulua people E41
+E42	Baiali people E42
+E43	Yagalingu people E43
+E44	Gayiri people E44
+E45	Gabulbarra people E45
+E46	Darumbal people E46
+E47	
+E48	Baradha people E48
+E49	Koinjmal
+E49	Guwinmal people E49
+E5	Ngambaa people E5
+E50	Miyan people E50
+E51	Yambina people E51
+E52	Yangga people E52
+E53	Baranha people E53
+E54	Yuwibarra people E54
+E55	Yilba people E55
+E56	Biri people E56
+E57	Wiri people E57
+E58	Giya people E58
+E59	Ngaro people E59
+E6	Dhanggati
+E6	Dunghutti people E6
+E60	Gudjal people E60
+E61	Bindal people E61
+E62	Yuru people E62
+E63	
+E64	
+E65	
+E66	Yugarabul people E66
+E67	Gathang people E67
+E68	
+E69	
+E7	Gumbaynggirr people E7
+E70	
+E71	
+E72	
+E73	
+E74	
+E75	
+E76	Mununjali people E76
+E77	Nerang Creek people E77
+E78	Nganduwal people E78
+E79	Ngarahgwal people E79
+E8	Baanbay people E8
+E80	Wehlubal people E80
+E81	
+E82	
+E83	
+E84	
+E85	
+E86	Turrbal people E86
+E87	
+E88	
+E89	
+E9	Yunggaya people E9
+E90	
+E91	
+E92	
+E93	
+E94	
+E95	Guringay people E95
+E96	
+E98	
+E99	
+G1	Wangkamanha
+G1	Wankamadla people G1
+G10	
+G11	
+G12	Ayerrerenge people G12
+G12.1	Bularnu people G12.1
+G13	Kalkatungu
+G13	Kalkadoon people G13
+G14	Indjilandji people G14
+G15	Wakabunga people G15
+G16	Mayi-Thakurti
+G16	Mitakoodi people G16
+G16.1	Wunumara people G16.1
+G17	Ngawun people G17
+G18	
+G19	Nguburinji people G19
+G2	Ulaolinya people G2
+G20	Mayi-Yapi people G20
+G21	Mbara people G21
+G22	Balgalu people G22
+G23	Waanyi people G23
+G24	Mayi-Kutuna people G24
+G25	Mayi-Kulan people G25
+G26	Mingginda people G26
+G27	Kalibamu people G27
+G28	Kukatj people G28
+G29	Gundara people G29
+G3	Kunkalanya people G3
+G30	
+G31	Gkuthaarn people G31
+G32	Garandi people G32
+G33	Kurtjar people G33
+G34	Yukulta
+G34	Gangalidda people G34
+G35	Kaiadilt people G35
+G36	Walangama people G36
+G37	Gananggalinda people G37
+G38	Lardil people G38
+G39	
+G4	Rakaya people G4
+G40	
+G41	
+G42	
+G43	
+G44	
+G45	
+G46	
+G47	
+G48	
+G49	Kok Narr people G49
+G5	
+G50	
+G51	
+G52	
+G53	
+G6	Pitta Pitta people G6
+G7	Ringu Ringu people G7
+G8	Yalarnnga people G8
+G9	Yanda people G9
+G9.1	Guwa people G9.1
+K1	Yawuru people K1
+K10	Warrwa people K10
+K11	Walki people K11
+K12	Jaru people K12
+K13	Nyulnyul people K13
+K14	Unggumi people K14
+K15	Bardi people K15
+K16	Jawi people K16
+K17	Worrorra people K17
+K18	Ngarinyin people K18
+K19	Guwij people K19
+K2	Jugun people K2
+K20	Gija
+K20	Kija people K20
+K21	Wanyjirra people K21
+K22	Wunambal people K22
+K23	Andedja people K23
+K24	Waladjangari people K24
+K25	Munumburu people K25
+K26	Wolyamidi people K26
+K27	Bemba people K27
+K28	Arawari people K28
+K29	Miriwoong
+K29	Miriuwung people K29
+K3	Nyikina people K3
+K30	Malngin people K30
+K31	Wenambal people K31
+K32	Yiiji people K32
+K33	Kuluwarrang people K33
+K34	Jiyil people K34
+K35	Wilawila people K35
+K36	Gwini people K36
+K37	
+K37.1	Gajirrabeng people K37.1
+K38	
+K39	
+K4	Ngumbarl people K4
+K40	Gingara people K40
+K41	
+K42	Wirngir people K42
+K43	Worla people K43
+K44	Miwa people K44
+K45	Walar people K45
+K46	Manungu people K46
+K47	Djerag people K47
+K48	
+K49	Umida people K49
+K5	Bunuba people K5
+K50	Doolboong people K50
+K51	
+K52	Ngarnawu people K52
+K53	Yawijibaya people K53
+K54	
+K55	Unggarrangu people K55
+K56	Winjarumi people K56
+K57	
+K58	
+K59	
+K6	Gooniyandi people K6
+K60	
+K61	
+K62	
+K63	
+K64	
+K67	
+K68	
+K69	
+K7	Nyininy people K7
+K70	Dayiba people K70
+K8	Jabirr Jabirr people K8
+K9	Nimanburru people K9
+L1	Narungga people L1
+L10	Adnyamathanha people L10
+L11	Pirlatapa people L11
+L12	Wadigali people L12
+L13	Arabana people L13
+L14	Dhirari people L14
+L15	Karenggapa people L15
+L16	Gungadidji people L16
+L17	Dieri people L17
+L18	
+L19	Dhiraila people L19
+L2	Nauo
+L2	Nawu people L2
+L20	Mambangurra people L20
+L21	Waidjinga people L21
+L22	Ngamini people L22
+L23	Yawarrawarrka people L23
+L24	Ngurawola people L24
+L25	Wangkumara people L25
+L26	Punthamara people L26
+L27	Wangkangurru people L27
+L28	Karanguru people L28
+L29	Kunandaburi people L29
+L3	Kaurna people L3
+L3.1	
+L30	Ngandangara people L30
+L31	Yarluyandi people L31
+L32	Karanya people L32
+L33	Marrulha people L33
+L34	Mithaka people L34
+L35	Karuwali people L35
+L36	Pirriya people L36
+L37	
+L38	Kungkari people L38
+L39	Wadjabangai people L39
+L4	Nukunu people L4
+L40	Maiawali people L40
+L41	Iningai people L41
+L42	Yirandali people L42
+L43	Bidjara people L43
+L44	
+L45	
+L46	
+L47	
+L48	
+L49	
+L5	Ngadjuri people L5
+L50	
+L51	
+L52	
+L53	
+L54	
+L55	
+L56	
+L57	
+L59	
+L6	Barngarla people L6
+L60	
+L61	
+L62	
+L63	
+L64	
+L65	Ngurunta people L65
+L66	
+L67	
+L68	
+L69	
+L7	Yadliawara people L7
+L70	
+L8	Malyangapa people L8
+L9	Kuyani people L9
+N1	
+N10	Kuwema people N10
+N100	Gamalangga people N100
+N101	Liyagawumirr people N101
+N102	Marri Ngarr people N102
+N103	Guyamirrilili people N103
+N104	Ritharrngu people N104
+N105	Gulunggurr people N105
+N106	
+N107	Yalukal people N107
+N108	Liyagalawumirr people N108
+N109	Guyula people N109
+N11	Pungupungu people N11
+N110	Lurlmarangu people N110
+N111	Madarrpa people N111
+N112	Marra people N112
+N113	Galwanuk people N113
+N113.1	Ngaladharr people N113.1
+N114	Budalpudal people N114
+N115	Djambarrpuyngu people N115
+N116	
+N116.A	
+N116.B	Birdingal people N116.B
+N116.C	Birrkili people N116.C
+N116.D	
+N116.E	Dhpuyngu people N116.E
+N116.F	Dtiwuy people N116.F
+N116.G	
+N116.H	
+N116.J	
+N116.L	
+N116.M	
+N116.N	Mandatja people N116.N
+N116.O	Manydjalpuyngu people N116.O
+N116.P	Mandjikai people N116.P
+N116.Q	Marrangu people N116.Q
+N116.R	Murrungun people N116.R
+N116.S	Miliwuru people N116.S
+N116.T	Murru people N116.T
+N116.U	
+N116.V	
+N116.W	
+N116.X	Ngaymil people N116.X
+N116.Y	Nungudulbuy people N116.Y
+N117	Djarrwark people N117
+N117.1	
+N118	
+N119	
+N12	Matngala people N12
+N120	Warndarrang people N120
+N121	Ngarnji people N121
+N122	Dhurili people N122
+N122.1	Gupapuyngu people N122.1
+N123	Bunanatjini people N123
+N124	Dhmalamirr people N124
+N125	Gigi people N125
+N126	Nunydjirrpi people N126
+N128	Wubuy people N128
+N129	Bararrngu people N129
+N13	Maranunggu people N13
+N130	Golpa people N130
+N131	Warramiri people N131
+N132	Wurrueople N132
+N133	Wurunggugu people N133
+N134	
+N135	Burarra people N135
+N136	
+N137	Manggalili people N137
+N138	Binbinka people N138
+N139	Glpu people N139
+N139.1	Makarrwanhalmirr people N139.1
+N14	Kungarakany people N14
+N140	Rirratjingu people N140
+N141	Gumatj people N141
+N142	Marrakulu people N142
+N143	
+N143.1	Dhalwangu people N143.1
+N144	
+N145	Djapu people N145
+N146	Marradhanggimirr people N146
+N147	Lamami people N147
+N148	
+N149	Dhiyakuy people N149
+N149.1	
+N15	Emmi people N15
+N150	Galawlwan people N150
+N151	Anindilyakwa people N151
+N152	
+N153	Yanyuwa people N153
+N154	Nyangga people N154
+N155	Garrwa people N155
+N156	
+N157	
+N158	Murrinh-kura people N158
+N159	
+N16	Maramanindji people N16
+N160	
+N161	Marri Tjevin people N161
+N162	Marri Amu people N162
+N163	Magati Ke people N163
+N164	
+N165	
+N166	
+N167	
+N168	
+N169	
+N17	Ngen'giwumirri people N17
+N170	
+N171	
+N172	Gun.guluwala' language N172
+N173	Kuninjku people N173
+N174	
+N175	
+N176	
+N177	
+N178	
+N179	
+N18	Jaminjung people N18
+N180	
+N181	
+N182	
+N183	
+N184	
+N185	
+N186	Bininj Kunwok people N186
+N188	
+N189	
+N19	NgaliWurrupeople N19
+N190	
+N191	
+N192	
+N193	
+N194	
+N195	
+N196	
+N197	
+N198	
+N199	
+N2	
+N20	Tiwi people N20
+N200	
+N201	
+N202	
+N203	
+N204	
+N205	
+N206	
+N207	
+N208	
+N209	Dbi people N209
+N21	Larrakia people N21
+N210	
+N211	
+N212	
+N213	
+N214	
+N215	
+N216	
+N217	
+N218	
+N219	
+N22	Malak Malak people N22
+N220	
+N221	
+N222	
+N223	
+N224	
+N225	
+N226	Kiyuk language N226
+N227	
+N228	Bararrpararr people N228
+N229	
+N230	Yolngu people N230
+N24	
+N25	Warray people N25
+N26	Yunggor people N26
+N27	Wagiman people N27
+N28	Nungali people N28
+N29	Wuna people N29
+N3	Murrinh-Patha people N3
+N30	Djowei people N30
+N31	Wadjiginy people N31
+N32	Wulwulam people N32
+N33	Kamu people N33
+N34	Garama people N34
+N35	Wardaman people N35
+N36	Bilinarra people N36
+N37	Wurruu people N37
+N37.1	Uwinymil people N37.1
+N38	Dagoman people N38
+N39	Iwaidja people N39
+N40	Ngaduk people N40
+N40.1	Ngombur people N40.1
+N42	Limilngan people N42
+N42.1	Bugurnidja people N42.1
+N43	Mbukarla people N43
+N44	Mayali people N44
+N45	Marrku people N45
+N46	Oitbi people N46
+N47	Amurdak people N47
+N48	Wareidbug people N48
+N49	Nambuguya people N49
+N5	
+N50	Gaagudju people N50
+N51	Wada people N51
+N52	Widjilg people N52
+N53	Mengerrdji people N53
+N55	Erre people N55
+N56	Gundudj people N56
+N57	Jawoyn people N57
+N58	Jalakuru people N58
+N59	Wengei people N59
+N6	Menthe people N6
+N60	Dalabon people N60
+N64	Mawng people N64
+N65	Kunwinjku people N65
+N66	Urningangk people N66
+N68	Yangman people N68
+N69	Kunbarlang people N69
+N7	
+N70	Kune people N70
+N71	Kundjeyhmi people N71
+N72	Yan-nhangu people N72
+N73	Rembarrnga people N73
+N74	Ndjebbana people N74
+N75	Gurr-goni people N75
+N76	Ngalkbon people N76
+N77	Ngalakgan people N77
+N78	Mangarrayi people N78
+N79	Walamangu people N79
+N8	Ngan'gikurunggurr people N8
+N80	Nakkara people N80
+N81	Gun-nartpa people N81
+N82	Burarra people N82
+N83	Ganhalpuyngu people N83
+N84	
+N85	Yugul people N85
+N86	Gudjalavia people N86
+N87	Manyarring people N87
+N88	Wubulkarra people N88
+N89	
+N9	Marridan people N9
+N90	Ngandi people N90
+N91	
+N92	Alawa people N92
+N93	
+N94	Balmbi people N94
+N94.1	Djinang people N94.1
+N95	
+N96	Dhaygurrgurr people N96
+N97	Djinba people N97
+N98	Malarbardjuradj people N98
+N99	Wilingura people N99
+P1	
+P2	Torres Strait Islander people P2
+P3	
+P4	
+P5	
+P6	
+S1	Warki people S1
+S10	Ngawadj
+S10	Binjali people S10
+S11	Tanganekald people S11
+S12	Yirawirung people S12
+S13	Bungandidj people S13
+S14	Meintangk people S14
+S15	Bindjali
+S15	Bodaruwidj people S15
+S16	Mardidjali people S16
+S17	Wergaia people S17
+S18	Ngintait people S18
+S19	Yuyu people S19
+S2	Ramindjeri people S2
+S20	Dhauwurd Wurrug people S20
+S21	
+S21.1	Kulin people S21.1
+S22	Djadjala people S22
+S23	Latji Latji people S23
+S24	Jari Jari people S24
+S25	
+S26	Djab Wurrug people S26
+S26.1	KnenknenWurrug people S26.1
+S27	
+S28	Dadi Dadi people S28
+S29	WadaWurrug people S29
+S3	Portaulun people S3
+S30	Gulidjan people S30
+S31	Kurung people S31
+S31.1	Dja Dja Wurrug people S31.1
+S32	Lewurung people S32
+S33	Weki Weki people S33
+S35	BoonWurrug people S35
+S36	Wurundjeri people S36
+S37	Taungurung people S37
+S38	Jabulajabula
+S38	Yabula Yabula people S38
+S39	Brataualung people S39
+S4	Ngaralda people S4
+S40	Bangerang people S40
+S41	Brayakaulung people S41
+S42	Tatungalung people S42
+S43	Gundungerre
+S43	Yaithmathang people S43
+S44	Dhudhuroa people S44
+S45	Brabralung people S45
+S46	Ngarigu
+S46	Ngarigo people S46
+S47	Walgulu
+S47	Ngambri
+S47	Ngurmal people S47
+S48	Krauatungalung people S48
+S49	Bidawal people S49
+S5	Peramangk people S5
+S50	Guyangal people S50
+S51	Dyirringañ people S51
+S52	Thawa people S52
+S53	Dhurga people S53
+S54	Walbunja people S54
+S55	Wandandian people S55
+S56	Dharamba people S56
+S57	Gurungada people S57
+S58	Wodi Wodi people S58
+S59	Dharawal people S59
+S6	Ngangaruku people S6
+S60	Gundungurra
+S60	Gandangara people S60
+S61	Eora people S61
+S62	Kuringgai people S62
+S63	Wonnarua people S63
+S64	Dharug
+S64	Darug people S64
+S65	Darkinyung people S65
+S66	Awabakal people S66
+S67	Yuin people S67
+S68	Kurnai people S68
+S69	Ngarrindjeri people S69
+S7	Ngayawang people S7
+S70	Buibadjali people S70
+S71	
+S72	
+S73	
+S74	
+S75	
+S76	
+S77	Bi:gWurrug people S77
+S78	
+S79	
+S8	Yaraldi people S8
+S80	
+S81	
+S82	
+S83	
+S84	
+S85	
+S86	
+S87	
+S88	
+S89	
+S9	Ngarkat people S9
+S90	
+S91	
+S92	
+S93	
+S94	
+S95	
+S96	
+S97	Kwat Kwat people S97
+S98	
+S99	
+T1	Palawa people T16
+T10	Palawa people T16
+T11	Palawa people T16
+T12	Palawa people T16
+T13	Palawa people T16
+T14	Palawa people T16
+T15	Palawa people T16
+T16	Palawa people T16
+T2	Palawa people T16
+T3	Palawa people T16
+T4	Palawa people T16
+T5	Palawa people T16
+T6	Palawa people T16
+T7	Palawa people T16
+T8	Palawa people T16
+T9	Palawa people T16
+W1	Bibulman people W1
+W10	Balardong people W10
+W11	Yuat people W11
+W12	Amangu people W12
+W13	Watjanti people W13
+W14	Nhanda people W14
+W15	Thaagurda people W15
+W16	Damala people W16
+W17	Buluguda people W17
+W18	Malgana people W18
+W19	Yingkarta people W19
+W2	Mirnang
+W2	Mineng people W2
+W20	Maya people W20
+W21	Tharrkari people W21
+W22	Warriyangga people W22
+W23	Bayungu people W23
+W24	Burduna people W24
+W25	Thiin people W25
+W26	Thalanyji people W26
+W28	Jiwarli people W28
+W3	Wardandi people W3
+W30	Nhuwala people W30
+W31	
+W33	Jurruru people W33
+W34	Pinikura people W34
+W35	Martuthunira people W35
+W36	Kurrama people W36
+W37	Yindjibarndi people W37
+W38	Ngarluma people W38
+W39	Kariyarra people W39
+W4	Kaniyang people W4
+W40	Ngarla people W40
+W41	Noongar
+W41	Nyoongar people W41
+W42	
+W43	
+W44	
+W45	
+W46	
+W47	
+W48	
+W49	
+W5	Goreng
+W5	Koreng people W5
+W50	
+W51	
+W52	
+W53	
+W54	
+W55	
+W56	
+W57	
+W58	
+W59	
+W6	Bindjareb
+W6	Pinjarup people W6
+W60	
+W61	
+W62	
+W63	
+W65	
+W66	
+W67	
+W68	
+W69	
+W7	Wiilman people W7
+W70	
+W8	Wudjari people W8
+W9	Wajuk people W9
+Y1	
+Y10	Wuthathi people Y10
+Y100	Koko Kai-kai people Y100
+Y101	Oykangand people Y101
+Y102	
+Y103	Kuku Kulunggur people Y103
+Y104	Kuku Wakura people Y104
+Y106	Djabugay
+Y106	Tjapukai people Y106
+Y107	Areba people Y107
+Y108	
+Y109	Kuku Djangun
+Y109	Djungan people Y109
+Y11	
+Y110	Bulwanydji people Y110
+Y111	Yirrganydji people Y111
+Y112	
+Y113	Narkalinji people Y113
+Y114	Gunggandji
+Y114	Gungandji people Y114
+Y115	Mbabaram people Y115
+Y116	
+Y117	Yidindji people Y117
+Y118	Waribarra Mamu people Y118
+Y119	Madjanydji people Y119
+Y12	Luthigh people Y12
+Y120	
+Y121	Ngadjondji people Y121
+Y122	Mamu people Y122
+Y123	Dyirbal
+Y123	Jirrbal people Y123
+Y124	
+Y125	Tagalaka people Y125
+Y126	Malanbarra people Y126
+Y127	Girramay people Y127
+Y128	Gugu Badhun people Y128
+Y129	Nywaigi people Y129
+Y13	Unjadi people Y13
+Y130	Biyaygiri people Y130
+Y131	Yanga people Y131
+Y132	Agwamin people Y132
+Y132.1	
+Y133	Warrungu people Y133
+Y134	
+Y135	Wulgurukaba people Y135
+Y136	Lamalama people Y136
+Y137	
+Y138	Ganganda people Y138
+Y139	
+Y14	Tjungundji people Y14
+Y141	
+Y142	
+Y144	
+Y145	
+Y146	
+Y147	
+Y148	
+Y149	
+Y15	Teppathiggi people Y15
+Y150	
+Y151	
+Y152	
+Y153	
+Y154	
+Y155	
+Y156	
+Y157	
+Y158	
+Y159	
+Y16	Ngadhugudi people Y16
+Y160	
+Y161	
+Y162	
+Y163	
+Y164	
+Y165	
+Y167	
+Y168	
+Y169	
+Y17	Itinadyana people Y17
+Y170	
+Y171	
+Y172	
+Y173	Wik-Keyangan people Y173
+Y174	
+Y175	Kugu Ugbanh people Y175
+Y176	Kugu Uwanh people Y176
+Y178	Kugu Yi'anh people Y178
+Y179	
+Y18	Ulwawadjana people Y18
+Y180	
+Y181	
+Y183	
+Y184	
+Y185	
+Y186	Mpakwithi people Y186
+Y187	
+Y188	
+Y19	Yupungathi people Y19
+Y190	
+Y191	
+Y192	
+Y193	
+Y194	
+Y195	Lamalama people Y195
+Y197	
+Y198	
+Y199	
+Y2	Western Torres Strait Islander people Y2
+Y20	Anguthimri people Y20
+Y200	
+Y201	
+Y202	
+Y203	
+Y204	
+Y205	
+Y206	
+Y207	
+Y208	
+Y209	
+Y21	Nyuwathayi people Y21
+Y210	
+Y211	Uutaalnganu people Y211
+Y212	
+Y213	
+Y214	
+Y215	
+Y216	
+Y217	
+Y218	
+Y219	
+Y22	Kuuku Ya'u people Y22
+Y220	Biyaygiri people Y220
+Y221	
+Y223	
+Y224	Kugu Mu'inh people Y224
+Y225	
+Y226	
+Y227	
+Y228	
+Y229	
+Y23	Wimaranga people Y23
+Y230	
+Y231	
+Y232	
+Y233	
+Y235	
+Y236	Lamalama people Y236
+Y237	
+Y238	
+Y239	
+Y24	Thaynakwith people Y24
+Y25	Mpalitjanh people Y25
+Y26	Linngithigh people Y26
+Y27	
+Y28	Ungawangadi people Y28
+Y29	Yinwum people Y29
+Y3	Meriam people Y3
+Y30	Ladamngid people Y30
+Y31	Mamangathi people Y31
+Y32	Alngith people Y32
+Y33	Gudjandju people Y33
+Y34	Arraythinngith people Y34
+Y36	Ngkoth people Y36
+Y37	Trotj people Y37
+Y38	Yanganyu people Y38
+Y39	
+Y4	Kulkalgaw Ya people Y4
+Y40	Ndorndorin people Y40
+Y41	Mbiywom people Y41
+Y42	Andjingith people Y42
+Y43	Kugu Muminh people Y43
+Y44	Kaanju
+Y44	Kaantju people Y44
+Y45	Umpila people Y45
+Y46	Wik Adinda people Y46
+Y47	Wik Paach people Y47
+Y48	Wik Ompom people Y48
+Y49	Wik Elken people Y49
+Y5	
+Y50	Lamalama people Y50
+Y51	Wik Ngatharr people Y51
+Y52	Wik Epa people Y52
+Y53	
+Y54	Wik Ngathan people Y54
+Y55	Lamalama people Y55
+Y56	
+Y57	Wik Mungkan people Y57
+Y59	Kugu Nganhcara people Y59
+Y6	Djagaraga people Y6
+Y60	Ayapathu people Y60
+Y61	
+Y62	Ama Ambilmungu people Y62
+Y63	
+Y63.1	Ama Ambilmungu people Y62
+Y64	Pakanh people Y64
+Y65	Aghu Tharnggala people Y65
+Y66	Wurangung people Y66
+Y67	Aba Yalgayi people Y67
+Y68	
+Y69	Kuuk Thaayorre people Y69
+Y7	Angkamuthi people Y7
+Y70	Yuwula people Y70
+Y71	Gugu Rarmul Y71
+Y72	Yir Yoront people Y72
+Y73	Olkola people Y73
+Y74	Gugu Yawa people Y74
+Y75	A'ragu people Y75
+Y76	Gwandera people Y76
+Y78	Kuku Yalanji people Y78
+Y79	Guugu-Nyiguudyi people Y79
+Y8	Yadhaykenu people Y8
+Y80	Kuku-Warra people Y80
+Y81	Kuku Walandja people Y81
+Y82	Guugu Yimithirr people Y82
+Y83	Kunjen people Y83
+Y84	Kuku Thaypan people Y84
+Y85	Koko Bera people Y85
+Y86	Kuku Bididji people Y86
+Y87	Kuku Buyunji people Y87
+Y88	Banambila people Y88
+Y89	Kuku Tungay people Y89
+Y90	Kuku Nyungkul people Y90
+Y91	
+Y92	Kuku Yanyu people Y92
+Y93	Koko Dhawa people Y93
+Y94	Kuku Mini people Y94
+Y95	Kutjal people Y95
+Y96	
+Y97	Muluridji people Y97
+Y98	Kuku Waldja
+Y98	Wulpura people Y98
+Y99	

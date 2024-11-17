@@ -1,0 +1,1252 @@
+A1	Nyaki Nyaki
+A1	Njaki Njaki
+A10	Ngurlu
+A100	Mardo
+A101	Naaguja
+A102	Pindiini
+A103	Wangkatja
+A104	Pijikala
+A105	Nangu
+A106	Najanaja
+A107	Nawurtu
+A108	Nankilakuthu
+A109	Martuyitha
+A11	Waljen
+A110	Marlpa
+A111	Windaga
+A112	Ngunuru
+A113	Byro Wajarri
+A114	Mileura Wajarri
+A115	Nharnu
+A116	Nyiyaparli Padupadu
+A117	Banyjima Padupadu
+A118	Ngarrka
+A119	Kurdun
+A12	Wangkatha
+A120	Yirrakalan
+A121	Ngardi
+A122	Kakutu
+A122	Kakurtu
+A123	Ngulatu
+A123	Ngulartu
+A124	Cundalee Wangka
+A13	Widi
+A14	Badimaya
+A16	Kuwarra
+A17	Nangadadjara
+A17	Nyanganyatjara
+A18	Muliara
+A19	Wardal
+A2	Kalarku
+A20	Wilyara
+A21	Gula
+A22	Marawa
+A23	Mangula
+A24	Gurduwanga
+A25	Birniridjara
+A26	Djalgandi
+A27	Mudalga
+A28	Bunggura
+A29	Wawula
+A3	Ngadjumaya
+A3	Ngadju
+A30	Ngadawanga
+A31	Tjupan
+A32	Nakako
+A33	Mantjintjarra
+A34	Mangu
+A35	Konin
+A36	Milamada
+A37	Nanadjara
+A38	Ngaanyatjarra
+A38.1	Widjandja
+A39	Wajarri
+A39.1	Wadiwangga
+A4	Kaalamaya
+A40	Birdungu
+A41	Madoidja
+A42	Tjitijamba
+A43	Ngaatjatjarra
+A44	Djungurdja
+A48	Ngarla
+A49	Wirdinya
+A5	Nungara
+A50	Nyiyaparli
+A51	Kartujarra
+A51.1	Manyjilyjarra
+A52	Kiyajarra
+A53	BANYJIMA
+A54	Putijarra
+A55	Palyku
+A56	Dargudi
+A58	Nyamal
+A59	Ibarga
+A6	Maduwongga
+A60	Widagari
+A61	NYANGUMARTA
+A62	Warnman
+A63	Waringari
+A64	Karajarri
+A65	Mangala
+A66	Walmajarri
+A67	Yulparija
+A68	Kukatja
+A69	Bunara
+A7	Tjeraridjal
+A70	Wadjiba
+A71	Nhugarn
+A72	Ngurlipartu
+A73	Walyirli
+A74	Fraser Range
+A75	Bundjuwanga
+A76	Pantikura
+A77	Mijaranypa
+A78	Ju'una
+A79	Yinhawangka
+A8	Murunitja
+A80	WESTERN DESERT LANGUAGE
+A81	Mount Margaret
+A82	Wirdjaragandja
+A83	Njangadjadjara
+A84	Tarpuntjari
+A85	Kurajarra
+A86	Martu Wangka
+A87	Wangkajunga
+A88	Juwaliny
+A89	Pililuna
+A9	Mirniny
+A90	Nyanyany
+A91	Nyardi
+A92	Tjapanmay
+A93	Nhanhagardi
+A94	Witjaari
+A95	Natingero
+A96	Mandara
+A97	Cheangwa language
+A98	Kuntal
+A99	Norseman
+C1	Wirangu
+C10	Pintupi
+C11	Yumu
+C12	Antekerrepenhe
+C13	Kaytetye
+C14	Alyawarr
+C15	WARLPIRI
+C15.1	Wakirti Warlpiri
+C16	Wakaya
+C17	Warlmanpa
+C18	Warumungu
+C19	Wambaya
+C2	Ngalia
+C20	GURINDJI
+C21	Pinkangarna
+C22	Jingulu
+C23	Gunindirri
+C24	Manu
+C25	MUDBURRA
+C26	Gudanji
+C27	NGARINYMAN
+C28	Akarre
+C29	Lower Arrernte
+C3	Kokatha
+C30	Eastern Gurindji
+C31	Eastern Mudburra
+C32	Eastern Ngarinyman
+C33	Karranga
+C34	Kartangarurru
+C35	Kuwarranyji
+C36	Western Mudburra
+C37	Wurlayi
+C38	Ngardilypa
+C39	Wawulya
+C4	Yankunytjatjara
+C40	Warnayaka
+C41	Yarlpiri
+C42	Warrmarla
+C43	Ngaliya
+C44	Wenamba
+C45	Nyiwanawu
+C46	Pertame
+C47	Western Arrarnta
+C48	ARANDIC
+C5	Antikirinya
+C6	Pitjantjatjara
+C7	Kukatja
+C7.1	Luritja
+C8	Arrernte
+C8.1	Anmatyerr
+C9	Wanggamala
+D1	Wemba Wemba
+D10	Wiradjuri
+D11	Pulaali
+D12	PAAKANTYI
+D12	PAAKANTJI
+D12	BARKINDJI
+D13	Wiljali
+D14	Thangkaali
+D15	Guyinbaraay
+D16	Wilyakali
+D17	Pantyikali
+D18	Wangaaypuwan
+D19	Nhaawuparlku
+D2	Yorta Yorta
+D20	Wayilwan
+D21	Wanyuparlku
+D22	NGIYAMPAA
+D22	NGEMPA
+D23	Gamilaraay
+D23	Gamilaroi
+D23	Kamilaroi
+D24	Southern Anaiwan
+D25	Kurnu
+D26	Barranbinya
+D27	Yuwaalaraay
+D28	Wiriyaraay
+D29	Gambuwal
+D3	Ngunawal
+D3	Ngunnawal
+D30	Kullilli
+D31	Budjari
+D31	Badjiri
+D32	MURUWARI
+D33	Guwamu
+D34	Bigambul
+D35	Guyambal
+D36	Geynyan
+D37	Gunggari
+D38	KOGAI
+D39	Gawambaraay
+D4	Wadi Wadi
+D40	Barunggam
+D41	Giabal
+D42	Margany
+D43	Gunya
+D44	Mandandanji
+D45	Wadjalang
+D45	Dharawala
+D46	Nguri
+D47	PaaRuntyi
+D48	Parrintyi
+D49	Kungakuri
+D5	Barababaraba
+D50	Nuntukuri
+D51	Purukuri
+D52	Thinuntu
+D53	Kuntakuri
+D54	Yuwaalayaay
+D55	Waalaraay
+D56	Muringam
+D57	Weraeria
+D58	Jeithi
+D59	Milpulo
+D6	Marrawarra
+D6.1	Kureinji
+D60	Wirriwirri
+D61	Southern Paakantyi
+D62	Canberra language
+D63	Northern Dharawal
+D64	Northern Anaiwan
+D65	Wirraayaraay
+D66	Wirraay-Wirraay
+D67	Wadi Wadi (Piangil)
+D68	Burabura
+D69	Himberrong
+D7	Yitha Yitha
+D70	Inuwon
+D71	Galali
+D8	Mutti Mutti
+D8	Muthi Muthi
+D9	Nari Nari
+E1	Geawegal
+E10	Yaygirr^
+E11	Yugambal
+E12	Bundjalung^
+E13	Arakwal
+E14	Gidhabal
+E15	Galibal
+E15.1	Wiyabal
+E16	Wiyabal
+E16.1	Dinggabal
+E16.2	Wahlubal
+E17	Yugambeh
+E18	Minyangbal
+E19	Jandai
+E2	Warrimay
+E20	Duungidjawu
+E21	Moondjan
+E22	Ngoera
+E23	Yuggera
+E24	Buyibara
+E25	Dalla
+E26	Guwar
+E27	Djagunda
+E28	Wakka Wakka^
+E29	Gubbi Gubbi
+E3	Birrbay
+E30	Butchulla
+E31	Yiman
+E32	GOORENG GOORENG
+E33	Taribelang
+E35	Gungabula
+E36	Goeng Goeng
+E37	Bidjara
+E37	Bidyara
+E38	Garaynbal
+E39	Wadjigu
+E4	Ngaku
+E40	Gangulu
+E41	Tulua
+E42	Baiali
+E43	Yagalingu
+E44	Gayiri
+E45	Gabulbarra
+E46	DARUMBAL
+E47	Wangan
+E48	Baradha
+E49	Guwinmal
+E5	Ngambaa
+E50	Miyan
+E51	Yambina
+E52	Yangga
+E53	Baranha
+E54	Yuwi
+E55	Yilba
+E56	Biri^
+E57	Wiri
+E58	Giya
+E59	Ngaro
+E6	Dhanggati
+E6	Dunghutti^
+E60	Gudjal
+E61	Bindal
+E62	Yuru
+E63	Yetimarala
+E63	Yetimarla
+E64	Ganulu
+E65	Mandalgu
+E66	Yugarabul
+E67	Gathang^
+E68	Ngarbal
+E69	Nulla Nulla
+E7	Gumbaynggirr
+E70	Burrgati
+E71	Baryulgil
+E72	Birihn
+E73	Casino language
+E74	Warwick dialect
+E75	Nyangbal
+E76	Mununjali
+E77	Nerang Creek
+E78	Nganduwal
+E79	Ngarahgwal
+E8	Baanbay
+E80	Wehlubal
+E81	Jarowair
+E82	Wapabara
+E83	Rakiwara
+E84	Karunbara
+E85	Gambalamam
+E86	Turrbal
+E87	Dungibara
+E88	Garumngar
+E89	Wuli Wuli
+E9	Yunggaya
+E90	Nalbo
+E91	Marbal
+E92	Ngarabal
+E93	Baddala
+E94	Undanbi
+E95	Guringay
+E96	Wudjebal
+E98	Nymboidan
+E99	Yirraygirr
+G1	Wangkamanha
+G1	Wankamadla
+G10	Warluwarra^
+G11	Wonganya
+G12	Ayerrerenge
+G12.1	Bularnu
+G13	Kalkatungu
+G13	Kalkadoon
+G14	Indjilandji
+G15	Wakabunga
+G16	Mayi-Thakurti
+G16	Mitakoodi
+G16.1	Wunumara
+G17	Ngawun
+G18	Midjamba
+G19	Nguburinji
+G2	Ulaolinya
+G20	Mayi-Yapi
+G21	Mbara
+G22	Balgalu
+G23	Waanyi
+G24	Mayi-Kutuna
+G25	Mayi-Kulan
+G26	Mingginda
+G27	Kalibamu
+G28	Kukatj
+G29	Gundara
+G3	Kunkalanya
+G30	Ganggalidda
+G31	Gkuthaarn
+G32	Garandi
+G33	Kurtjar
+G34	Yukulta
+G34	Ganggalidda
+G35	Kayardild
+G36	Walangama
+G37	Yangkaal
+G38	Lardil
+G39	Ogerliga
+G4	Rakaya
+G40	Ngulupulu
+G41	Parnkarra
+G42	Dhidhani
+G43	Kapula
+G44	Mayi-Yali
+G45	Marrago
+G46	Bundjil
+G47	Jangrala
+G48	Rangwa
+G49	Kok Narr
+G5	Wangka-Yutjurru^
+G50	Kok Nhang
+G51	Baringkirri
+G52	Indjiladji
+G53	Lanima
+G6	Pitta Pitta
+G7	Ringu Ringu
+G8	Yalarnnga
+G9	Yanda
+G9.1	Guwa
+K1	Yawuru
+K10	Warrwa
+K11	Walki
+K12	Jaru
+K13	Nyulnyul
+K14	Unggumi
+K15	Bardi
+K16	Jawi
+K17	Worrorra
+K18	Ngarinyin
+K19	Guwij
+K2	Jugun
+K20	Gija
+K20	Kija
+K21	Wanyjirra
+K22	Wunambal
+K23	Andedja
+K24	Waladjangari
+K25	Munumburu
+K26	Wolyamidi
+K27	Bemba
+K28	Arawari
+K29	Miriwoong
+K29	Miriuwung
+K3	Nyikina
+K30	Malngin
+K31	Wenambal
+K32	Yiiji
+K33	Kuluwarrang
+K34	Jiyil
+K35	Wilawila
+K36	Gunin
+K37	Arnga
+K37.1	Gajirrabeng
+K38	Mariung
+K39	Gaambera
+K4	Ngumbarl
+K40	Gingara
+K41	Galamburu
+K42	Wirngir
+K43	Worla
+K44	Miwa
+K45	Walar
+K46	Manungu
+K47	Djerag
+K48	Julbayi
+K49	Umida
+K5	Bunuba
+K50	Doolboong
+K51	Wawarl
+K52	Ngarnawu
+K53	Yawijibaya
+K54	Marangan
+K55	Unggarrangu
+K56	Winjarumi
+K57	Ginan
+K58	Barunjin
+K59	Gulunggulu
+K6	Gooniyandi
+K60	Mailnga
+K61	Wulamban
+K62	Bayimbarr
+K63	Giwajbem
+K64	Andajin
+K67	Eastern Bunuba
+K68	Western Bunuba
+K69	Baard
+K7	Nyininy
+K70	Dayiba
+K8	Jabirr Jabirr
+K9	Nimanburru
+L1	Narungga
+L1	Nharangga
+L10	Adnyamathanha
+L11	Pirlatapa
+L12	Wadigali
+L13	ARABANA
+L14	Dhirari
+L15	Karenggapa
+L16	Gungadidji
+L17	Dieri
+L18	Yandruwandha^
+L19	Dhiraila
+L2	Nauo
+L2	Nawu
+L20	Mambangurra
+L21	Waidjinga
+L22	Ngamini
+L23	Yawarrawarrka
+L24	Ngurawala
+L25	Wangkumara
+L26	Punthamara
+L27	Wangkangurru
+L28	Karangura
+L29	Kunandaburi
+L3	Kaurna
+L3.1	Nanduwara
+L30	Ngandangara
+L31	Yarluyandi
+L32	Karanya
+L33	Marula
+L34	Mithaka
+L35	Karuwali
+L36	Pirriya
+L37	Gulumali
+L38	Kungkari
+L39	Wadjabangai
+L4	Nukunu
+L40	Maiawali
+L41	Iningai
+L42	Yirandali
+L43	Bidjara
+L44	Yandjibara
+L45	Parlpamardramardra
+L46	Nhirrpi
+L47	Matja
+L48	Ngananhina
+L49	Marunuda
+L5	Ngadjuri
+L50	Midlaliri
+L51	Mikiri-nganha
+L52	Wangkakupa
+L53	Piltapalta
+L54	Wangkatyaka
+L55	Wailpi
+L56	Yarrumada
+L57	Minkabari
+L59	Mundanbara
+L6	Barngarla
+L60	Ngura Wota
+L61	Kadli
+L62	Malintji
+L63	Thura
+L63	Yura
+L64	Parpagunu
+L65	Ngurunta
+L66	Parlpakurnu
+L67	Eastern Wangkangurru
+L68	Wangkumara
+L69	Northern Dhirari
+L7	Yadliawara
+L70	Southern Dhirari
+L8	Malyangapa
+L9	Kuyani
+N1	Nangor
+N10	Kuwema
+N100	Gamalangga
+N101	Liyagawumirr
+N102	Marri Ngarr
+N103	Guyamirrilili
+N104	Ritharrngu
+N105	Gulunggurr
+N106	Wgilak
+N107	Yalukal
+N108	Liyagalawumirr
+N109	Guyula
+N11	Pungupungu
+N110	Lurlmarangu
+N111	Madarrpa
+N112	Marra
+N113	Galwanuk
+N113.1	Ngaladharr
+N114	Budalpudal
+N115	Djambarrpuyngu
+N116	Dhuwaya
+N116.A	Bilin
+N116.B	Birdingal
+N116.C	Birrkili
+N116.D	Dholpuyngu
+N116.E	Dhpuyngu
+N116.F	Dtiwuy
+N116.G	Ding Ding
+N116.H	Djamundja
+N116.J	Djirin
+N116.L	Maydyara
+N116.L	Maidjara
+N116.M	Malardordo
+N116.N	Mandatja
+N116.O	Manydjalpuyngu
+N116.P	Mandjikai
+N116.Q	Marrangu
+N116.R	Marrungun
+N116.S	Miliwuru
+N116.T	Murru
+N116.U	Narrkala
+N116.V	Raijang
+N116.W	Ralwia
+N116.X	Ngaymil
+N116.Y	Nungudulbuy
+N117	Djarrwark
+N117.1	Murngin
+N118	Dhay'yi
+N119	M?larra
+N12	Matngala
+N120	Warndarrang
+N121	Ngarnka
+N122	Dhurili
+N122.1	Gupapuyngu
+N123	Bunanatjini
+N124	Dhmalamirr
+N125	Gigi
+N126	Nunydjirrpi
+N128	Wubuy
+N129	Bararrngu
+N13	Maranunggu
+N130	Golpa
+N131	Warramiri
+N132	WurruUronlurl
+N133	Wurunggugu
+N134	Wan.gurri
+N135	Burarra
+N136	Yithuwa
+N137	Manggalili
+N138	Binbinka
+N139	Glpu
+N139.1	Makarrwanhalmirr
+N14	Kungarakany
+N140	Rirratjingu
+N141	Gumatj
+N142	Marrakulu
+N143	Djarn
+N143.1	Dhalwangu
+N144	Bilamandyi
+N145	Djapu
+N146	Marradhanggimirr
+N147	Lamami
+N148	Gobadeindamirr
+N149	Dhiyakuy
+N149.1	Balamumu
+N15	Emmi
+N150	Galawlwan
+N151	Anindilyakwa
+N152	Walu
+N153	Yanyuwa
+N154	Nyangga
+N155	Garrwa^
+N156	Nalawgi
+N157	NGAN'GI
+N158	Murrinh-kura
+N159	Murrinhdiminin
+N16	Maramanindji
+N160	Ngan'gimerri
+N161	Marri Tjevin
+N162	Marri Amu
+N163	Magati Ke
+N164	Mariyedi
+N165	Marrabanggu
+N166	Marranumbu
+N167	Ngan-wirlang
+N168	Djimbilirri
+N169	Kerniyn'mi
+N17	Ngen'giwumirri
+N170	Gumunggurdu
+N171	Kundedjnjenghmi
+N172	Gun.guluwala'
+N173	Kuninjku
+N174	Gurrigurri
+N175	Galduyh
+N176	Letpurrirt
+N177	Ngarlahmi
+N178	Ngorrkgowo
+N179	Ngardawuli
+N18	Jaminjung
+N180	Urrirrk
+N181	Wurdang
+N182	Gidjurra
+N183	Manangkarri
+N184	Ilgar
+N185	Burdinmanduwij
+N186	BININJ KUNWOK
+N188	Garig
+N189	Mukngirru
+N19	NgaliWurru
+N190	Gun-narda
+N191	Gun-narta
+N192	Dhangu
+N193	Golumala
+N194	Buralka
+N195	Dhamarrangdji
+N196	Nyekuymirri
+N197	Wutjara
+N198	Dhuwal
+N199	Dhuwala
+N2	Yilngali
+N20	Tiwi
+N200	Munyuku
+N201	Gumadir
+N202	Djangu
+N203	Manyarring
+N204	Mildjingi
+N205	Airiman
+N206	Djadiwitjibi
+N207	Wora
+N208	Munggurrpi
+N209	Dbi
+N21	Larrakia
+N210	Walmapuy
+N211	Nhangu
+N212	Gurryindi
+N213	Bindararr
+N214	Menthajangal
+N215	MARRANJ
+N216	Ngurruwula
+N217	Buwarrpuwarr
+N218	Mininggiri
+N219	Manggurra
+N22	Malak Malak
+N220	GIIMBIYU
+N221	Muralidban
+N222	Ngunbudj
+N223	Wandangbag
+N224	Gonbudj
+N225	Meritjamui
+N226	Kiyuk
+N227	Karaman
+N228	Bararrpararr
+N229	Ngalarrunga
+N230	YOLNGU MATHA
+N24	Nangiblerbi
+N25	Warray
+N26	Yunggor
+N27	Wagiman
+N28	Nungali
+N29	Wuna
+N3	Murrinh-Patha
+N30	Djowei
+N31	Batjamalh
+N32	Wulwulam
+N33	Kamu
+N34	Garama
+N35	Wardaman
+N36	Bilinarra
+N37	Wurruu
+N37.1	Uwinymil
+N38	Dagoman
+N39	Iwaidja
+N40	Ngaduk
+N40.1	Ngomburr
+N42	Limilngan
+N42.1	Bugurnidja
+N43	Mbukarla
+N44	Mayali
+N45	Marrku
+N46	Oitbi
+N47	Amurdak
+N48	Wareidbug
+N49	Nambuguja
+N5	Alura
+N50	Gaagudju
+N51	Wada
+N52	Widjilg
+N53	Mengerrdji
+N55	Erre
+N56	Gundudj
+N57	Jawoyn
+N58	Jalakuru
+N59	Wengei
+N6	Menthe
+N60	Dalabon
+N64	Mawng
+N65	Kunwinjku
+N66	Urningangk
+N68	Yangman
+N69	Kunbarlang
+N7	Marrithiyel^
+N70	Kune
+N71	Kundjeyhmi
+N72	Yan-nhangu
+N73	Rembarrnga
+N74	Ndjbbana
+N75	Gurr-goni
+N76	Ngalkbon
+N77	Ngalakgan
+N78	Mangarrayi
+N79	Walamangu
+N8	Ngan'gikurunggurr
+N80	Nakkara
+N81	Gun-nartpa
+N82	Burarra
+N83	Ganhalpuyngu
+N84	Djarawala
+N85	Yugul
+N86	Gadjalivia
+N87	Manyarring
+N88	Wubulkarra
+N89	Buan
+N9	Marridan
+N90	Ngandi
+N91	Galwa
+N92	Alawa
+N93	Wulkara
+N94	Balmbi
+N94.1	Djinang
+N95	Wurlaki
+N96	Dhaygurrgurr
+N97	Djinba^
+N98	Malarbardjuradj
+N99	Wilingura
+P1	Kriol
+P2	Torres Strait Creole
+P3	Broome Pearling Lugger Pidgin
+P4	Aboriginal English
+P5	Kimberley Kriol
+P6	Gurindji Kriol
+S1	Warki
+S10	Ngawadj
+S11	Tanganekald
+S12	Yirawirung
+S13	Bungandidj^
+S14	Meintangk
+S15	Bindjali
+S15	Bodaruwitj
+S16	Mardidjali
+S17	WERGAIA
+S18	Ngintait
+S19	Yuyu
+S2	Ramindjeri
+S20	Dhauwurd Wurrug^
+S21	Warga Warga
+S21.1	Kulin
+S22	Djadjala
+S23	Latji Latji
+S24	Jari Jari
+S25	Keerray Woorroong^
+S26	Djab Wurrug^
+S26.1	KnenknenWurrug
+S27	Jardwadjali^
+S28	Dadi Dadi
+S29	WadaWurrug
+S3	Portaulun
+S30	Gulidjan
+S31	Kurung
+S31.1	Dja Dja Wurrug
+S32	Lewurung
+S33	Weki Weki
+S35	BoonWurrug
+S36	WoiWurrug
+S37	Taungurung
+S38	Jabulajabula
+S38	Yabula Yabula
+S39	Brataualung
+S4	Ngaralda
+S40	Bangerang
+S41	Brayakaulung
+S42	Tatungalung
+S43	Gundungerre
+S43	Yaithmathang
+S44	Dhudhuroa
+S45	Brabralung
+S46	Ngarigu
+S46	Ngarigo
+S47	Walgalu
+S48	Krauatungalang
+S49	Bidawal
+S5	Peramangk
+S50	Guyangal
+S51	Dyirringañ
+S52	Thawa
+S53	Dhurga
+S54	Walbunja
+S55	Wandandian
+S56	Dharamba
+S57	Gurungada
+S58	Southern Dharawal
+S59	Dharawal
+S6	Ngangaruku
+S60	Gundungurra
+S60	Gandangara
+S61	Eora
+S62	Kuringgai
+S63	Wanarruwa
+S64	Dharug
+S64	Darug
+S65	Darkinyung
+S66	Awabakal
+S67	Yuin
+S68	KURNAI
+S69	NGARRINDJERI
+S7	Ngayawang
+S70	Buibadjali
+S71	Gadubanud
+S72	Wichintunga
+S73	Djargurd Wurrong
+S74	GaiWurrug
+S75	Koornkopanoot
+S76	Moatatunga
+S77	Bi:gWurrug
+S78	Pinejunga
+S79	Taloinjunga
+S8	Yaraldi
+S80	Wirngilgnad dhalinanong
+S81	WulluWurrug
+S82	Koort-Kirrup
+S83	Ngurai-illamWurrug
+S84	Jagwadjali
+S85	Biwadjali
+S86	PirtpirtWurrug
+S87	Nundadjali
+S88	Wotjobaluk
+S89	WayWurru
+S89	Pallanganmiddang
+S9	Ngarkat
+S90	Minjambuta
+S91	Nulit
+S92	Wathurung
+S93	Ngarad
+S94	Jupagalk
+S95	Djilamatang
+S96	Hawkesbury River - Broken Bay language
+S97	Kwat Kwat
+S98	Southern Ngarigu
+S99	Hunter River - Lake Macquarie language
+T1	Northern Tasmanian
+T10	South-western Tasmanian
+T11	Robbins Island Tasmanian
+T12	Circular Head Tasmanian
+T13	Port Sorell Tasmanian
+T14	Piper River Tasmanian
+T15	Little Swanport Tasmanian
+T16	palawa kani
+T2	Oyster Bay Tasmanian
+T3	North-western Tasmanian
+T4	North Midlands Tasmanian
+T5	South-eastern Tasmanian
+T6	Macquarie Harbour Tasmanian
+T7	Ben Lomond
+T8	Big River Tasmanian
+T9	Cape Portland Tasmanian
+W1	Bibulman
+W10	Balardong
+W11	Yuat
+W12	Amangu
+W13	Watjanti
+W14	Nhanda^
+W15	Thaagurda
+W16	Damala
+W17	Buluguda
+W18	Malgana
+W19	Yingkarta
+W2	Mirnang
+W2	Mineng
+W20	Maya
+W21	Tharrkari
+W22	Warriyangga
+W23	Bayungu
+W24	Burduna
+W25	Thiin
+W26	Thalanyji
+W28	Jiwarli
+W3	Wardandi
+W30	Nhuwala
+W31	Yarnarri
+W33	Jurruru
+W34	Pinikura
+W35	Martuthunira
+W36	Kurrama
+W37	Yindjibarndi
+W38	Ngarluma
+W39	Kariyarra
+W4	Kaniyang
+W40	Ngarla
+W41	NOONGAR
+W41	NYOONGAR
+W42	Northern Yingkarta
+W43	Pulinya
+W44	Janadjina
+W45	Watjanmay
+W46	Southern Yingkarta
+W47	Yapurarra
+W48	Djungundja
+W49	Jadira
+W5	Goreng
+W5	Koreng
+W50	Jindijind
+W51	Malygaru
+W52	Nokaan
+W53	Wirlu
+W54	Yinigudira
+W55	Jaburu
+W56	West Ngarluma
+W57	East Ngarluma
+W58	Yindjibarndi Padupadu
+W59	Ngarluma Padupadu
+W6	Bindjareb
+W6	Pinjarup
+W60	Yinyjiwarnti Kurrama
+W61	Mijarranypa
+W62	Marntartka
+W63	Ngamangamara
+W65	Djiraly
+W66	Kongal-marawar
+W67	Kongal-boyal
+W68	Purnukundi
+W69	Marndanjingu
+W7	Wiilman
+W70	Jaurnmalu
+W8	Wudjari
+W9	Wajuk
+Y1	Kala Lagaw Ya^
+Y10	Wuthathi
+Y100	Koko Kai-kai
+Y101	Uw Oykangand
+Y102	Tjapatja
+Y103	Kuku Kulunggur
+Y104	Kuku Wakura
+Y106	Djabugay
+Y106	Tjapukai^
+Y107	Areba
+Y108	Wagaman
+Y109	Kuku Djangun
+Y109	Djungan
+Y11	Ngur'and
+Y110	Bulway
+Y111	Yirrgay
+Y112	Binggu
+Y113	Narkali
+Y114	Gunggay
+Y115	Mbabaram
+Y116	Djandjandji
+Y117	Yidinj^
+Y118	Waribarra Mamu
+Y119	Madjay
+Y12	Luthigh
+Y120	Njirma
+Y121	Ngadjon
+Y122	Mamu
+Y123	DYIRBAL
+Y123	JIRRBAL
+Y124	Djiru
+Y125	Tagalaka
+Y126	Gulngay
+Y127	Girramay
+Y128	Gugu Badhun
+Y129	Nywaigi
+Y13	Unjadi
+Y130	Biyay
+Y131	Yanga
+Y132	Agwamin
+Y132.1	Wamin
+Y133	Warrungu
+Y134	Warrgamay^
+Y135	WULGURUKABA
+Y136	Mbarrumbathama
+Y137	Bindaga
+Y138	Ganganda
+Y139	Gunggarbara
+Y14	Yangathimri
+Y141	Madhirdirl
+Y142	Mbo'aru
+Y144	Ug Windjila
+Y145	Waigur
+Y146	Walboram
+Y147	Walmbarddha
+Y148	Wulbudjibur
+Y149	Jabunbarra Jirrbal
+Y15	Teppathiggi
+Y150	Walmalbarra
+Y151	Jirribarra Mamu
+Y152	Gambilbarra Jirrbal
+Y153	Buluguyban
+Y154	Mulgu
+Y155	Coonambella
+Y156	Marrett River language
+Y157	Mbarmburmu
+Y158	China Camp
+Y159	Gugu Dyilin
+Y16	Ngadhugudi
+Y160	Guluy
+Y161	Kuku Jakandji
+Y162	Nyagali
+Y163	Kuku Yalaja
+Y164	Wulbura
+Y165	Wanyurr
+Y167	Dhalundhirr
+Y168	Waguurrga
+Y169	Kuuku I'yu
+Y17	Itinadyana
+Y170	Kuuku Yani
+Y171	Ogh Igadj
+Y172	Wik Iyanh
+Y173	Wik-Keyangan
+Y174	Kugu Mangk
+Y175	Kugu Ugbanh
+Y176	Kugu Uwanh
+Y178	Kugu Yi'anh
+Y179	Wantjika
+Y18	Ulwawadjana
+Y180	Nhawalgaba
+Y181	Western Ayapathu
+Y183	Atampaya
+Y184	Uradhi^
+Y185	Awngthim
+Y186	Mpakwithi
+Y187	Mutyanthi
+Y188	Kokiny
+Y19	Yuputhimri
+Y190	Yumukuntyi
+Y191	Gudang
+Y192	Andooyomo
+Y193	Uyungkuthi
+Y194	Utyangikwathiya
+Y195	Rimanggudinhma
+Y197	Ogh Angkula
+Y198	Ogh Ikarranggal
+Y199	Ogh Alungul
+Y2	Kalaw Kawaw Ya
+Y20	Anguthimri
+Y200	Kuuk Yak
+Y201	Ogh Awarrangg
+Y202	Ndrangith
+Y203	Koko Babangk
+Y204	Koko Beberam
+Y205	Ndwa'ngith
+Y206	Ogh Undjan
+Y207	Uw El
+Y208	Uw Olem
+Y209	Kok Wap
+Y21	Nyuwathayi
+Y210	Kirka
+Y211	Uutaalnganu
+Y212	Kuuk Thayem
+Y213	Ungan
+Y214	Yirrk-Thangalkl
+Y215	Kuuk Thaayunth
+Y216	Ngaygungu
+Y217	Koko-koko
+Y218	Cleveland Bay
+Y219	Alodja
+Y22	Kuuku Ya'u
+Y220	Biyay
+Y221	Di:ru
+Y223	Kokoberrin
+Y224	Kugu Mu'inh
+Y225	Wik Totjan
+Y226	Wudjar
+Y227	Daru
+Y228	Ithu
+Y229	Adithinngithigh
+Y23	Wimaranga
+Y230	Muragan
+Y231	Yaraytyana
+Y232	Yatay
+Y233	Wakaman
+Y235	Dulgubarra Mamu
+Y236	Yintyingka
+Y237	Athina
+Y238	Injinoo Ikya
+Y239	Mabuyag
+Y24	Thaynakwith
+Y25	Mpalitjanh
+Y26	Linngithigh
+Y27	Ntrwa'ngayth
+Y28	Ungawangadi
+Y29	Yinwum
+Y3	Meriam Mir
+Y30	Ladamngid
+Y31	MAMANGATHI
+Y32	Alngith
+Y33	Gudjandju
+Y34	Arraythinngith
+Y36	Ngkoth
+Y37	Trotj
+Y38	Yanganyu
+Y39	Ntra'ngith
+Y4	Kulkalgaw Ya
+Y40	Ndorndorin
+Y41	Mbiywom
+Y42	Andjingith
+Y43	Kugu Muminh
+Y44	Kaanju
+Y44	Kaantju
+Y45	Umpila
+Y46	Wik Adinda
+Y47	Wik Paach
+Y48	Wik Ompom
+Y49	Wik Elken
+Y5	Kawalgaw Ya
+Y50	Umpithamu
+Y51	Wik Ngatharr
+Y52	Wik Epa
+Y53	Wik Me'anh
+Y54	Wik Ngathan
+Y55	Morrobolam
+Y56	Wik Ngathanya
+Y57	Wik Mungkan
+Y59	KUGU NGANHCARA
+Y6	Djagaraga
+Y60	Ayapathu
+Y61	Flinders Island (retired)
+Y62	Ama Ambilmungu
+Y63	Jugaiwadha
+Y63.1	Barrow Point
+Y64	Pakanh
+Y65	Aghu Tharnggala
+Y66	Wurangung
+Y67	Flinders Island language
+Y68	Baraban
+Y69	Kuuk Thaayorre
+Y7	Angkamuthi
+Y70	Yuwula
+Y71	Gugu Rarmul
+Y72	Yir Yoront
+Y73	Uw Olkola
+Y74	Gugu Yawa
+Y75	A'ragu
+Y76	Gwandera
+Y78	KUKU YALANJI
+Y79	Guugu-Nyiguudyi
+Y8	Yadhaykenu
+Y80	Kuku-Warra
+Y81	Kuku Walandja
+Y82	GUUGU YIMITHIRR
+Y83	KUNJEN
+Y84	Kuku Thaypan
+Y85	Koko Bera
+Y86	Kuku Bididji
+Y87	Kuku Buyunji
+Y88	Banambila
+Y89	Kuku Tungay
+Y90	Kuku Nyungkul
+Y91	Gonaniin
+Y92	Kuku Yanyu
+Y93	Koko Dhawa
+Y94	Kuku Mini
+Y95	Kutjal
+Y96	Gugu Jan
+Y97	Muluridji
+Y98	Kuku Waldja
+Y98	Wulpura
+Y99	Kuku Yalunyu

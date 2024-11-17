@@ -1,0 +1,1249 @@
+A1	Nyaki Nyaki
+A1	Njaki Njaki language A1
+A10	Ngurlu language A10
+A100	
+A101	Naaguja language A101
+A102	Pindiini language A102
+A103	Wangkatja language A103
+A104	Pijikala language A104
+A105	Nangu language A105
+A106	Najanaja language A106
+A107	Nawurtu language A107
+A108	Nankilakuthu language A108
+A109	Martuyitha language A109
+A11	Waljen language A11
+A110	Marlpa language A110
+A111	
+A112	Ngunuru language A112
+A113	Nhugarn language A71
+A114	Ngunuru language A112
+A115	Nharnu language A115
+A116	Nyiyaparli Padupadu language A116
+A117	Banyjima Padupadu A117
+A118	Ngarrka language A118
+A119	Kurdun language A119
+A12	Wangkatha language A12
+A120	Yirrakalan language A120
+A121	Ngardi language A121
+A122	Kakutu
+A122	Kakurtu language A122
+A123	Ngulatu
+A123	Ngulartu language A123
+A124	
+A13	Widi language A13
+A14	Badimaya language A14
+A16	Kuwarra language A16
+A17	Nangadadjara
+A17	Nyanganyatjara language A17
+A18	Muliara language A18
+A19	Wardal language A19
+A2	Kalarku language A2
+A20	Wilyara language A20
+A21	Gula language A21
+A22	Marawa language A22
+A23	Mangula language A23
+A24	Gurduwanga language A24
+A25	Birniridjara language A25
+A26	Djalgandi language A26
+A27	Mudalga language A27
+A28	Bunggura language A28
+A29	Wawula language A29
+A3	Ngadjumaya
+A3	Ngadju language A3
+A30	Ngadawanga language A30
+A31	Tjupan language A31
+A32	Nakako language A32
+A33	Mantjintjarra language A33
+A34	Mangu language A34
+A35	
+A36	
+A37	Nanadjara language A37
+A38	Ngaanyatjarra language A38
+A38.1	
+A39	Wajarri language A39
+A39.1	Warriyangga language W22
+A4	Kaalamaya language A4
+A40	Birdungu language A40
+A41	Madoidja language A41
+A42	
+A43	Ngaatjatjarra language A43
+A44	delete language
+A48	Ngarla language A48
+A49	Wirdinya language A49
+A5	Nungara language A5
+A50	Nyiyaparli language A50
+A51	Kartujarra language A51
+A51.1	Manyjilyjarra language A51.1
+A52	Kiyajarra language A52
+A53	Banyjima language A53
+A54	Putijarra language A54
+A55	Palyku language A55
+A56	Dargudi language A56
+A58	Nyamal language A58
+A59	Ibarga language A59
+A6	Maduwongga language A6
+A60	Widagari language A60
+A61	Nyangumarta language A61
+A62	Warnman language A62
+A63	Waringari language A63
+A64	Karajarri language A64
+A65	Mangala language A65
+A66	Walmajarri language A66
+A67	Yulparija language A67
+A68	Kukatja language A68
+A69	Bunara language A69
+A7	Tjeraridjal language A7
+A70	
+A71	Nhugarn language A71
+A72	
+A73	
+A74	Fraser Range language A74
+A75	
+A76	Pantikura language A76
+A77	Mijaranypa language A77
+A78	
+A79	Yinhawangka language A79
+A8	Murunitja language A8
+A80	Western Desert language A80
+A81	
+A82	Wirdjaragandja language A82
+A83	Njangadjadjara language A83
+A84	
+A85	Kurajarra language A85
+A86	Martu Wangka language A86
+A87	Wangkajunga language A87
+A88	Juwaliny language A88
+A89	
+A9	Mirniny language A9
+A90	Nyanyany language A90
+A91	Nyardi language A91
+A92	Tjapanmay language A92
+A93	Nhanhagardi language A93
+A94	Witjaari language A94
+A95	Natingero language A95
+A96	
+A97	Cheangwa language A97
+A98	
+A99	
+C1	Wirangu language C1
+C10	Pintupi language C10
+C11	Yumu language C11
+C12	Antekerrepenhe language C12
+C13	Kaytetye language C13
+C14	Alyawarr language C14
+C15	Warlpiri language C15
+C15.1	Wakirti Warlpiri language C15.1
+C16	Wakaya language C16
+C17	Warlmanpa language C17
+C18	Warumungu language C18
+C19	Wambaya language C19
+C2	Ngalia language C2
+C20	Gurindji language C20
+C21	
+C22	Jingulu language C22
+C23	Gunindirri language C23
+C24	Manu language C24
+C25	Mudburra language C25
+C26	Gudanji language C26
+C27	Ngarinyman language C27
+C28	Akarre language C28
+C29	Lower Arrernte language C29
+C3	Kokatha language C3
+C30	Eastern Gurindji language C30
+C31	Eastern Mudburra language C31
+C32	Eastern Ngarinyman language C32
+C33	Karranga language C33
+C34	Kartangarurru language C34
+C35	Kuwarranyji language C35
+C36	Western Mudburra language C36
+C37	Wurlayi language C37
+C38	Ngardilypa language C38
+C39	Wawulya language C39
+C4	Yankunytjatjara language C4
+C40	Warlpiri language C15
+C41	Warlpiri language C15
+C42	Warlpiri language C15
+C43	Ngaliya language C43
+C44	Wenamba language C44
+C45	Nyiwanawu language C45
+C46	Pertame language C46
+C47	Western Arrarnta language C47
+C48	Arandic language C48
+C5	Antikirinya language C5
+C6	Pitjantjatjara language C6
+C7	Kukatja language C7
+C7.1	Luritja language C7.1
+C8	Arrernte language C8
+C8.1	Anmatyerr language C8.1
+C9	
+D1	Wemba Wemba language D1
+D10	Wiradjuri language D10
+D11	Pulaali language D11
+D12	Paakantyi
+D12	Paakantji
+D12	Barkindji language D12
+D13	
+D14	Thangkaali language D14
+D15	Guyinbaraay language D15
+D16	Wilyakali language D16
+D17	Pantyikali language D17
+D18	Wangaaypuwan language D18
+D19	Nhaawuparlku language D19
+D2	Yorta Yorta language D2
+D20	Wayilwan language D20
+D21	Wanyuparlku language D21
+D22	Ngiyampaa
+D22	Ngempa language D22
+D23	Gamilaraay
+D23	Gamilaroi
+D23	Kamilaroi language D23
+D24	Southern Anaiwan language D24
+D25	Kurnu language D25
+D26	Barranbinya language D26
+D27	Yuwaalaraay language D27
+D28	Wiriyaraay language D28
+D29	Gambuwal language D29
+D3	Ngunawal
+D3	Ngunnawal language D3
+D30	Kullilli language D30
+D31	Budjari
+D31	Badjiri language D31
+D32	Muruwari language D32
+D33	Guwamu language D33
+D34	Bigambul language D34
+D35	Guyambal language D35
+D36	Geynyan language D36
+D37	Gunggari language D37
+D38	Kogai language D38
+D39	Gawambaraay language D39
+D4	Wadi Wadi language D4
+D40	Barunggam language D40
+D41	Giabal language D41
+D42	Margany language D42
+D43	Gunya language D43
+D44	Mandandanji language D44
+D45	Wadjalang
+D45	Dharawala language D45
+D46	Nguri language D46
+D47	PaaRuntyi language D47
+D48	Parrintyi language D48
+D49	
+D5	Barababaraba language D5
+D50	
+D51	
+D52	
+D53	
+D54	Yuwaalayaay language D54
+D55	
+D56	
+D57	
+D58	Jeithi language D58
+D59	Milpulo language D59
+D6	Marrawarra language D6
+D6.1	Kureinji language D6.1
+D60	
+D61	Southern Paakantyi language D61
+D62	Canberra language D62
+D63	Northern Dharawal language D63
+D64	Northern Anaiwan language D64
+D65	Wirraayaraay language D65
+D66	Wirraay-Wirraay language D66
+D67	Wadi Wadi (Piangil) language D67
+D68	Burabura language D68
+D69	Himberrong language D69
+D7	Yitha Yitha language D7
+D70	Inuwon language D70
+D71	Galali language D71
+D8	Mutti Mutti
+D8	Muthi Muthi language D8
+D9	Nari Nari language D9
+E1	Geawegal language E1
+E10	Yaygirr language E10
+E11	Yugambal language E11
+E12	Bundjalung language E12
+E13	Arakwal language E13
+E14	Gidhabal language E14
+E15	Galibal language E15
+E15.1	
+E16	Wiyabal language E16
+E16.1	Dinggabal language E16.1
+E16.2	Wahlubal language E16.2
+E17	Yugambeh language E17
+E18	Minyangbal language E18
+E19	Jandai language E19
+E2	Warrimay language E2
+E20	Duungidjawu language E20
+E21	Moondjan language E21
+E22	Ngoera language E22
+E23	Yuggera language E23
+E24	Buyibara language E24
+E25	Dalla language E25
+E26	Guwar language E26
+E27	Djagunda language E27
+E28	Wakka Wakka language E28
+E29	Gubbi Gubbi language E29
+E3	Birrbay language E3
+E30	Butchulla language E30
+E31	Yiman language E31
+E32	Gooreng Gooreng language E32
+E33	Taribelang language E33
+E35	Gungabula language E35
+E36	Goeng Goeng language E36
+E37	Bidjara
+E37	Bidyara language E37
+E38	Garaynbal language E38
+E39	Wadjigu language E39
+E4	Ngaku language E4
+E40	Gangulu language E40
+E41	Tulua language E41
+E42	Baiali language E42
+E43	Yagalingu language E43
+E44	Gayiri language E44
+E45	Gabulbarra language E45
+E46	Darumbal language E46
+E47	
+E48	Baradha language E48
+E49	Koinjmal
+E49	Guwinmal language E49
+E5	Ngambaa language E5
+E50	Miyan language E50
+E51	Yambina language E51
+E52	Yangga language E52
+E53	Baranha language E53
+E54	Yuwi language E54
+E55	Yilba language E55
+E56	Biri language E56
+E57	Wiri language E57
+E58	Giya language E58
+E59	Ngaro language E59
+E6	Dhanggati
+E6	Dunghutti language E6
+E60	Gudjal language E60
+E61	Bindal language E61
+E62	Yuru language E62
+E63	Yetimarala language E63
+E64	Ganulu language E64
+E65	Mandalgu language E65
+E66	Yugarabul language E66
+E67	Gathang language E67
+E68	Ngarbal language E68
+E69	
+E7	Gumbaynggirr language E7
+E70	Burrgati language E70
+E71	
+E72	Birihn language E72
+E73	Casino language E73
+E74	
+E75	Nyangbal language E75
+E76	
+E77	Nerang Creek language E77
+E78	Nganduwal language E78
+E79	Ngarahgwal language E79
+E8	Baanbay language E8
+E80	Wehlubal language E80
+E81	Jarowair language E81
+E82	Wapabara language E82
+E83	Rakiwara language E83
+E84	Karunbara language E84
+E85	Gambalamam language E85
+E86	Turrbal language E86
+E87	
+E88	Garumngar language E88
+E89	Wulli Wulli language E89
+E9	Yunggaya language E9
+E90	
+E91	Marbal language E91
+E92	Ngarabal language E92
+E93	
+E94	
+E95	Guringay language E95
+E96	Wudjebal language E96
+E98	Nymboidan language E98
+E99	Yirraygirr language E99
+G1	Wangkamanha
+G1	Wankamadla language G1
+G10	Warluwarra language G10
+G11	
+G12	Ayerrerenge language G12
+G12.1	Bularnu language G12.1
+G13	Kalkatungu
+G13	Kalkadoon language G13
+G14	Indjilandji language G14
+G15	Wakabunga language G15
+G16	Mayi-Thakurti
+G16	Mitakoodi language G16
+G16.1	Wunumara language G16.1
+G17	Ngawun language G17
+G18	
+G19	Nguburinji language G19
+G2	Ulaolinya language G2
+G20	Mayi-Yapi language G20
+G21	Mbara language G21
+G22	Balgalu language G22
+G23	Waanyi language G23
+G24	Mayi-Kutuna language G24
+G25	Mayi-Kulan language G25
+G26	Mingginda language G26
+G27	Kalibamu language G27
+G28	Kukatj language G28
+G29	Gundara language G29
+G3	Kunkalanya language G3
+G30	
+G31	Gkuthaarn language G31
+G32	Garandi language G32
+G33	Kurtjar language G33
+G34	Yukulta
+G34	Gangalidda language G34
+G35	Kayardild language G35
+G36	Walangama language G36
+G37	Yangkaal language G37
+G38	Lardil language G38
+G39	Ogerliga language G39
+G4	Rakaya language G4
+G40	Ngulupulu language G40
+G41	Parnkarra language G41
+G42	Dhidhani language G42
+G43	Kapula language G43
+G44	Mayi-Yali language G44
+G45	
+G46	Bundjil language G46
+G47	Jangrala language G47
+G48	Rangwa language G48
+G49	Kok Narr language G49
+G5	Wangka-Yutjurru language G5
+G50	Kok Nhang language G50
+G51	Baringkirri language G51
+G52	Indjiladji language G52
+G53	Lanima language G53
+G6	Pitta Pitta language G6
+G7	Ringu Ringu language G7
+G8	Yalarnnga language G8
+G9	Yanda language G9
+G9.1	Guwa language G9.1
+K1	Yawuru language K1
+K10	Warrwa language K10
+K11	Walki language K11
+K12	Jaru language K12
+K13	Nyulnyul language K13
+K14	Unggumi language K14
+K15	Bardi language K15
+K16	Jawi language K16
+K17	Worrorra language K17
+K18	Ngarinyin language K18
+K19	Guwij language K19
+K2	Jugun language K2
+K20	Gija
+K20	Kija language K20
+K21	Wanyjirra language K21
+K22	Wunambal language K22
+K23	Andedja language K23
+K24	Waladjangari language K24
+K25	Munumburu language K25
+K26	Wolyamidi language K26
+K27	Bemba language K27
+K28	Arawari language K28
+K29	Miriwoong
+K29	Miriuwung language K29
+K3	Nyikina language K3
+K30	Malngin language K30
+K31	Wenambal language K31
+K32	Yiiji language K32
+K33	Kuluwarrang language K33
+K34	Jiyil language K34
+K35	Wilawila language K35
+K36	Gunin language K36
+K37	
+K37.1	Gajirrabeng language K37.1
+K38	
+K39	Gaambera language K39
+K4	Ngumbarl language K4
+K40	Gingara language K40
+K41	
+K42	
+K43	Worla language K43
+K44	Miwa language K44
+K45	Walar language K45
+K46	Manungu language K46
+K47	Djerag language K47
+K48	Julbayi language K48
+K49	Umida language K49
+K5	Bunuba language K5
+K50	Doolboong language K50
+K51	Wawarl language K51
+K52	Ngarnawu language K52
+K53	Yawijibaya language K53
+K54	Marangan language K54
+K55	Unggarrangu language K55
+K56	Winjarumi language K56
+K57	
+K58	
+K59	Gulunggulu language K59
+K6	Gooniyandi language K6
+K60	
+K61	
+K62	
+K63	Giwajbem language K63
+K64	Andajin language K64
+K67	Eastern Bunuba language K67
+K68	Western Bunuba language K68
+K69	Baard language K69
+K7	Nyininy language K7
+K70	Dayiba language K70
+K8	Jabirr Jabirr language K8
+K9	Nimanburru language K9
+L1	Narungga language L1
+L10	Adnyamathanha language L10
+L11	Pirlatapa language L11
+L12	Wadigali language L12
+L13	Arabana language L13
+L14	Dhirari language L14
+L15	Karenggapa language L15
+L16	Gungadidji language L16
+L17	Dieri language L17
+L18	Yandruwandha language L18
+L19	Dhiraila language L19
+L2	Nauo
+L2	Nawu language L2
+L20	Mambangurra language L20
+L21	Waidjinga language L21
+L22	Ngamini language L22
+L23	Yawarrawarrka language L23
+L24	Ngurawola language L24
+L25	Wangkumara language L25
+L26	Punthamara language L26
+L27	Wangkangurru language L27
+L28	Karanguru language L28
+L29	Kunandaburi language L29
+L3	Kaurna language L3
+L3.1	Nanduwara language L3.1
+L30	Ngandangara language L30
+L31	Yarluyandi language L31
+L32	Karanya language L32
+L33	Marrulha language L33
+L34	Mithaka language L34
+L35	Karuwali language L35
+L36	Pirriya language L36
+L37	
+L38	Kungkari language L38
+L39	Wadjabangai language L39
+L4	Nukunu language L4
+L40	Maiawali language L40
+L41	Iningai language L41
+L42	Yirandali language L42
+L43	Bidjara language L43
+L44	Yandjibara language L44
+L45	Parlpamardramardra language L45
+L46	Nhirrpi language L46
+L47	Matja language L47
+L48	Ngananhina language L48
+L49	Marunuda language L49
+L5	Ngadjuri language L5
+L50	Midlaliri language L50
+L51	Mikiri-nganha language L51
+L52	Wangkakupa language L52
+L53	Piltapalta language L53
+L54	Wangkatyaka language L54
+L55	Wailpi language L55
+L56	Yarrumada language L56
+L57	Minkabari language L57
+L59	
+L6	Barngarla language L6
+L60	
+L61	
+L62	
+L63	
+L64	
+L65	Ngurunta language L65
+L66	
+L67	Eastern Wangkangurru language L67
+L68	Wangkumara language L68
+L69	Northern Dhirari language L69
+L7	Yadliawara language L7
+L70	Southern Dhirari language L70
+L8	Malyangapa language L8
+L9	Kuyani language L9
+N1	
+N10	Kuwema language N10
+N100	Gamalangga language N100
+N101	Liyagawumirr language N101
+N102	Marri Ngarr language N102
+N103	Guyamirrilili language N103
+N104	Ritharrngu language N104
+N105	
+N106	Wgilak language N106
+N107	Yalukal language N107
+N108	Liyagalawumirr language N108
+N109	Guyula language N109
+N11	Pungupungu language N11
+N110	Lurlmarangu language N110
+N111	Madarrpa language N111
+N112	Marra language N112
+N113	Galwanuk language N113
+N113.1	Ngaladharr language N113.1
+N114	
+N115	Djambarrpuyngu language N115
+N116	Dhuwaya language N116
+N116.A	
+N116.B	
+N116.C	Birrkili language N116.C
+N116.D	
+N116.E	Dhpuyngu language N116.E
+N116.F	Dtiwuy language N116.F
+N116.G	
+N116.H	
+N116.J	
+N116.L	
+N116.M	
+N116.N	Mandatja language N116.N
+N116.O	Manydjalpuyngu language N116.O
+N116.P	Mandjikai language N116.P
+N116.Q	Marrangu language N116.Q
+N116.R	Murrungun language N116.R
+N116.S	Miliwuru language N116.S
+N116.T	
+N116.U	
+N116.V	
+N116.W	
+N116.X	Ngaymil language N116.X
+N116.Y	
+N117	Djarrwark language N117
+N117.1	Yolngu Matha language N230
+N118	Dhay'yi language N118
+N119	Malarra language N119
+N12	Matngala language N12
+N120	Warndarrang language N120
+N121	Ngarnka language N121
+N122	Dhurili language N122
+N122.1	Gupapuyngu language N122.1
+N123	Bunanatjini language N123
+N124	Dhmalamirr language N124
+N125	Gigi language N125
+N126	Nunydjirrpi language N126
+N128	Wubuy language N128
+N129	Bararrngu language N129
+N13	Maranunggu language N13
+N130	Golpa language N130
+N131	Warramiri language N131
+N132	
+N133	
+N134	Wangurri language N134
+N135	Burarra language N135
+N136	Yithuwa language N136
+N137	Manggalili language N137
+N138	Binbinka language N138
+N139	Glpu language N139
+N139.1	Makarrwanhalmirr language N139.1
+N14	Kungarakany language N14
+N140	Rirratjingu language N140
+N141	Gumatj language N141
+N142	Marrakulu language N142
+N143	
+N143.1	Dhalwangu language N143.1
+N144	
+N145	Djapu language N145
+N146	Marradhanggimirr language N146
+N147	Lamami language N147
+N148	
+N149	Dhiyakuy language N149
+N149.1	
+N15	Emmi language N15
+N150	Galawlwan language N150
+N151	Anindilyakwa language N151
+N152	
+N153	Yanyuwa language N153
+N154	Nyangga language N154
+N155	Garrwa language N155
+N156	Nalawgi languages N156
+N157	Ngan'gi language N157
+N158	Murrinh-kura language N158
+N159	Murrinhdiminin language N159
+N16	Maramanindji language N16
+N160	Ngan'gimerri language N160
+N161	Marri Tjevin language N161
+N162	Marri Amu language N162
+N163	Magati Ke language N163
+N164	Mariyedi language N164
+N165	Marrabanggu language N165
+N166	Marranumbu language N166
+N167	Ngan-wirlang language N167
+N168	Djimbilirri language N168
+N169	Kerniyn'mi language N169
+N17	Ngen'giwumirri language N17
+N170	
+N171	Kundedjnjenghmi language N171
+N172	Gun.guluwala' language N172
+N173	Kuninjku language N173
+N174	Gurrigurri language N174
+N175	Galduyh language N175
+N176	Letpurrirt language N176
+N177	Ngarlahmi language N177
+N178	Ngorrkgowo language N178
+N179	Ngardawuli language N179
+N18	Jaminjung language N18
+N180	Urrirrk language N180
+N181	Wurdang language N181
+N182	Gidjurra language N182
+N183	Manangkarri language N183
+N184	Ilgar language N184
+N185	Burdinmanduwij language N185
+N186	Bininj Kunwok language N186
+N188	Garig language N188
+N189	Mukngirru language N189
+N19	NgaliWurrulanguage N19
+N190	Gun-narda language N190
+N191	Gun-narta language N191
+N192	Dhangu language N192
+N193	
+N194	
+N195	
+N196	
+N197	
+N198	Dhuwal language N198
+N199	Dhuwala language N199
+N2	Yilngali language N2
+N20	Tiwi language N20
+N200	
+N201	Gumadir language N201
+N202	Djangu language N202
+N203	
+N204	Mildjingi language N204
+N205	
+N206	Djadiwitjibi language N206
+N207	
+N208	Munggurrpi language N208
+N209	Dbi language N209
+N21	Larrakia language N21
+N210	Walmapuy language N210
+N211	Nhangu language N211
+N212	
+N213	
+N214	
+N215	Marranj language N215
+N216	
+N217	
+N218	Mininggiri language N218
+N219	Manggurra language N219
+N22	Malak Malak language N22
+N220	Giimbiyu language N220
+N221	Muralidban language N221
+N222	
+N223	Wandangbag language N223
+N224	Gonbudj language N224
+N225	
+N226	Kiyuk language N226
+N227	
+N228	Bararrpararr language N228
+N229	Ngalarrunga language N229
+N230	Yolngu Matha language N230
+N24	
+N25	Warray language N25
+N26	Yunggor language N26
+N27	Wagiman language N27
+N28	Nungali language N28
+N29	Wuna language N29
+N3	Murrinh-Patha language N3
+N30	Djowei language N30
+N31	Batjamalh language N31
+N32	Wulwulam language N32
+N33	Kamu language N33
+N34	Garama language N34
+N35	Wardaman language N35
+N36	Bilinarra language N36
+N37	Wurruu language N37
+N37.1	Uwinymil language N37.1
+N38	Dagoman language N38
+N39	Iwaidja language N39
+N40	Ngaduk language N40
+N40.1	Ngombur language N40.1
+N42	Limilngan language N42
+N42.1	Bugurnidja language N42.1
+N43	Mbukarla language N43
+N44	Mayali language N44
+N45	Marrku language N45
+N46	Oitbi language N46
+N47	Amurdak language N47
+N48	Wareidbug language N48
+N49	
+N5	
+N50	Gaagudju language N50
+N51	Wada language N51
+N52	Widjilg language N52
+N53	Mengerrdji language N53
+N55	Erre language N55
+N56	Gundudj language N56
+N57	Jawoyn language N57
+N58	Jalakuru language N58
+N59	Wengei language N59
+N6	Menthe language N6
+N60	Dalabon language N60
+N64	Mawng language N64
+N65	Kunwinjku language N65
+N66	Urningangk language N66
+N68	Yangman language N68
+N69	Kunbarlang language N69
+N7	Marrithiyel language N7
+N70	Kune language N70
+N71	Kundjeyhmi language N71
+N72	Yan-nhangu language N72
+N73	Rembarrnga language N73
+N74	Ndjebbana language N74
+N75	Gurr-goni language N75
+N76	Ngalkbon language N76
+N77	Ngalakgan language N77
+N78	Mangarrayi language N78
+N79	Walamangu language N79
+N8	Ngan'gikurunggurr language N8
+N80	Nakkara language N80
+N81	Gun-nartpa language N81
+N82	Burarra language N82
+N83	Ganhalpuyngu language N83
+N84	
+N85	Yugul language N85
+N86	Gudjalavia language N86
+N87	Manyarring language N87
+N88	Wubulkarra language N88
+N89	Buan language N89
+N9	Marridan language N9
+N90	Ngandi language N90
+N91	
+N92	Alawa language N92
+N93	
+N94	Balmbi language N94
+N94.1	Djinang language N94.1
+N95	Wurlaki language N95
+N96	
+N97	Djinba language N97
+N98	Malarbardjuradj language N98
+N99	Wilingura language N99
+P1	Kriol language P1
+P2	Torres Strait Creole language P2
+P3	Broome Pearling Lugger Pidgin language P3
+P4	Aboriginal English language P4
+P5	Kimberley Kriol language P5
+P6	Gurindji Kriol language P6
+S1	Warki language S1
+S10	Ngawadj language S10
+S11	Tanganekald language S11
+S12	Yirawirung language S12
+S13	Bungandidj language S13
+S14	Meintangk language S14
+S15	Bindjali
+S15	Bodaruwidj language S15
+S16	Mardidjali language S16
+S17	Wergaia language S17
+S18	Ngintait language S18
+S19	Yuyu language S19
+S2	Ramindjeri language S2
+S20	Dhauwurd Wurrug language S20
+S21	Weki Weki language S33
+S21.1	
+S22	Djadjala language S22
+S23	Latji Latji language S23
+S24	Jari Jari language S24
+S25	Keerray Woorroong language S25
+S26	Djab Wurrug language S26
+S26.1	KnenknenWurrug language S26.1
+S27	Jardwadjali language S27
+S28	Dadi Dadi language S28
+S29	WadaWurrug language S29
+S3	Portaulun language S3
+S30	Gulidjan language S30
+S31	
+S31.1	Dja Dja Wurrug language S31.1
+S32	Lewurung language S32
+S33	Weki Weki language S33
+S35	BoonWurrug language S35
+S36	WoiWurrug language S36
+S37	Taungurung language S37
+S38	Jabulajabula
+S38	Yabula Yabula language S38
+S39	Brataualung language S39
+S4	Ngaralda language S4
+S40	Bangerang language S40
+S41	Brayakaulung language S41
+S42	Tatungalung language S42
+S43	Gundungerre
+S43	Yaithmathang language S43
+S44	Dhudhuroa language S44
+S45	Brabralung language S45
+S46	Ngarigu
+S46	Ngarigo language S46
+S47	Walgalu language S47
+S48	Krauatungalung language S48
+S49	Bidawal language S49
+S5	Peramangk language S5
+S50	
+S51	Dyirringañ language S51
+S52	Thawa language S52
+S53	Dhurga language S53
+S54	Walbunja language S54
+S55	Wandandian language S55
+S56	Dharamba language S56
+S57	
+S58	Southern Dharawal language S58
+S59	Dharawal language S59
+S6	Ngangaruku language S6
+S60	Gundungurra
+S60	Gandangara language S60
+S61	Eora language S61
+S62	Kuringgai language S62
+S63	Wanarruwa language S63
+S64	Dharug
+S64	Darug language S64
+S65	Darkinyung language S65
+S66	Awabakal language S66
+S67	Yuin language S67
+S68	Kurnai language S68
+S69	Ngarrindjeri language S69
+S7	Ngayawang language S7
+S70	Buibadjali language S70
+S71	Gadubanud language S71
+S72	Wichintunga language S72
+S73	Djargurd Wurrong language S73
+S74	GaiWurrug language S74
+S75	Koornkopanoot language S75
+S76	Moatatunga language S76
+S77	Bi:gWurrug language S77
+S78	Pinejunga language S78
+S79	Taloinjunga language S79
+S8	Yaraldi language S8
+S80	Wirngilgnad dhalinanong language S80
+S81	WulluWurrug language S81
+S82	
+S83	Ngurai-illamWurrug language S83
+S84	Jagwadjali language S84
+S85	Biwadjali language S85
+S86	PirtpirtWurrug language S86
+S87	Nundadjali language S87
+S88	Wotjobaluk language S88
+S89	WayWurru
+S89	Pallanganmiddang language S89
+S9	Ngarkat language S9
+S90	Minjambuta language S90
+S91	Nulit language S91
+S92	
+S93	
+S94	
+S95	
+S96	Hawkesbury River-Broken Bay language S96
+S97	Kwat Kwat language S97
+S98	Southern Ngarigu language S98
+S99	Hunter River ??Lake Macquarie language S99
+T1	palawa kani language T16
+T10	palawa kani language T16
+T11	palawa kani language T16
+T12	palawa kani language T16
+T13	palawa kani language T16
+T14	palawa kani language T16
+T15	palawa kani language T16
+T16	palawa kani language T16
+T2	palawa kani language T16
+T3	palawa kani language T16
+T4	palawa kani language T16
+T5	palawa kani language T16
+T6	palawa kani language T16
+T7	palawa kani language T16
+T8	palawa kani language T16
+T9	palawa kani language T16
+W1	Bibulman language W1
+W10	Balardong language W10
+W11	Yuat language W11
+W12	Amangu language W12
+W13	Watjanti language W13
+W14	Nhanda language W14
+W15	Thaagurda language W15
+W16	Damala language W16
+W17	Buluguda language W17
+W18	Malgana language W18
+W19	Yingkarta language W19
+W2	Mirnang
+W2	Mineng language W2
+W20	Maya language W20
+W21	Tharrkari language W21
+W22	Warriyangga language W22
+W23	Bayungu language W23
+W24	Burduna language W24
+W25	Thiin language W25
+W26	Thalanyji language W26
+W28	Jiwarli language W28
+W3	Wardandi language W3
+W30	Nhuwala language W30
+W31	Yarnarri language W31
+W33	Jurruru language W33
+W34	Pinikura language W34
+W35	Martuthunira language W35
+W36	Kurrama language W36
+W37	Yindjibarndi language W37
+W38	Ngarluma language W38
+W39	Kariyarra language W39
+W4	Kaniyang language W4
+W40	Ngarla language W40
+W41	Noongar
+W41	Nyoongar language W41
+W42	Northern Yingkarta language W42
+W43	
+W44	Janadjina language W44
+W45	Watjanmay language W45
+W46	Southern Yingkarta language W46
+W47	Yapurarra language W47
+W48	
+W49	Jadira language W49
+W5	Goreng
+W5	Koreng language W5
+W50	
+W51	
+W52	
+W53	
+W54	Yinigudira language W54
+W55	Jaburu language W55
+W56	West Ngarluma language W56
+W57	East Ngarluma language W57
+W58	Yindjibarndi Padupadu language W58
+W59	Ngarluma Padupadu language W59
+W6	Bindjareb
+W6	Pinjarup language W6
+W60	Yinyjiwarnti Kurrama language W60
+W61	Mijarranypa language W61
+W62	Marntartka language W62
+W63	Ngamangamara language W63
+W65	Djiraly language W65
+W66	Kongal-marawar language W66
+W67	Kongal-boyal language W67
+W68	Purnukundi language W68
+W69	Marndanjingu language W69
+W7	Wiilman language W7
+W70	Jaurnmalu language W70
+W8	Wudjari language W8
+W9	Wajuk language W9
+Y1	Kala Lagaw Ya language Y1
+Y10	Wuthathi language Y10
+Y100	Koko Kai-kai language Y100
+Y101	Uw Oykangand language Y101
+Y102	
+Y103	Kuku Kulunggur language Y103
+Y104	Kuku Wakura language Y104
+Y106	Djabugay
+Y106	Tjapukai language Y106
+Y107	Areba language Y107
+Y108	Agwamin language Y132
+Y109	Kuku Djangun
+Y109	Djungan language Y109
+Y11	
+Y110	Bulway language Y110
+Y111	Yirrgay language Y111
+Y112	
+Y113	Narkali language Y113
+Y114	Gunggay language Y114
+Y115	Mbabaram language Y115
+Y116	
+Y117	Yidinj language Y117
+Y118	Waribarra Mamu language Y118
+Y119	Madjay language Y119
+Y12	Luthigh language Y12
+Y120	
+Y121	Ngadjon language Y121
+Y122	Mamu language Y122
+Y123	Dyirbal
+Y123	Jirrbal language Y123
+Y124	Djiru language Y124
+Y125	Tagalaka language Y125
+Y126	Gulngay language Y126
+Y127	Girramay language Y127
+Y128	Gugu Badhun language Y128
+Y129	Nywaigi language Y129
+Y13	Unjadi language Y13
+Y130	Biyay language Y130
+Y131	Yanga language Y131
+Y132	Agwamin language Y132
+Y132.1	Wamin language Y132.1
+Y133	Warrungu language Y133
+Y134	Warrgamay language Y134
+Y135	Wulgurukaba language Y135
+Y136	Mbarrumbathama language Y136
+Y137	
+Y138	Ganganda language Y138
+Y139	
+Y14	Yangathimri language Y14
+Y141	
+Y142	
+Y144	
+Y145	
+Y146	
+Y147	
+Y148	
+Y149	Jabunbarra Jirrbal language Y149
+Y15	Teppathiggi language Y15
+Y150	Walmalbarra language Y150
+Y151	Jirribarra Mamu language Y151
+Y152	Gambilbarra Jirrbal language Y152
+Y153	Buluguyban language Y153
+Y154	Mulgu language Y154
+Y155	Coonambella language Y155
+Y156	
+Y157	Marrett River language Y157
+Y158	
+Y159	
+Y16	Ngadhugudi language Y16
+Y160	Guluy language Y160
+Y161	Kuku Jakandji Y161
+Y162	Nyagali language Y162
+Y163	Kuku Yalaja language Y163
+Y164	
+Y165	Wanyurr language Y165
+Y167	
+Y168	
+Y169	Kuuku l'yu language Y169
+Y17	Itinadyana language Y17
+Y170	Kuuku Yani language Y170
+Y171	Ogh Igadj language Y171
+Y172	Wik Iyanh language Y172
+Y173	Wik-Keyangan language Y173
+Y174	
+Y175	Kugu Ugbanh language Y175
+Y176	Kugu Uwanh language Y176
+Y178	Kugu Yi'anh language Y178
+Y179	Wantjika language Y179
+Y18	Ulwawadjana language Y18
+Y180	Nhawalgaba language Y180
+Y181	Western Ayapathu language Y181
+Y183	Atampaya language Y183
+Y184	
+Y185	Awngthim language Y185
+Y186	Mpakwithi language Y186
+Y187	Mutyanthi language Y187
+Y188	Kokiny language Y188
+Y19	Yuputhimri language Y19
+Y190	Yumukuntyi language Y190
+Y191	Gudang language Y191
+Y192	
+Y193	Uyungkuthi language Y193
+Y194	Utyangikwathiya language Y194
+Y195	Rimanggudinhma language Y195
+Y197	Ogh Angkula language Y197
+Y198	Ogh Ikarranggal language Y198
+Y199	Ogh Alungul language Y199
+Y2	Kalaw Kawaw Ya language Y2
+Y20	Anguthimri language Y20
+Y200	Kuuk Yak language Y200
+Y201	Ogh Awarrangg language Y201
+Y202	Ndrangith language Y202
+Y203	Koko Babangk language Y203
+Y204	Koko Beberam language Y204
+Y205	Ndwa'ngith language Y205
+Y206	Ogh Undjan language Y206
+Y207	Uw El language Y207
+Y208	Uw Olem language Y208
+Y209	Kok Wap language Y209
+Y21	Nyuwathayi language Y21
+Y210	Kirka language Y210
+Y211	Uutaalnganu language Y211
+Y212	Kuuk Thayem language Y212
+Y213	Ungan language Y213
+Y214	Yirrk-Thangalkl language Y214
+Y215	Kuuk Thaayunth language Y215
+Y216	Ngaygungu language Y216
+Y217	
+Y218	Cleveland Bay language Y218
+Y219	Alodja language Y219
+Y22	Kuuku Ya'u language Y22
+Y220	Biyay language Y220
+Y221	
+Y223	Kokoberrin language Y223
+Y224	Kugu Mu'inh language Y224
+Y225	
+Y226	
+Y227	Daru language Y227
+Y228	
+Y229	Adithinngithigh language Y229
+Y23	Wimaranga language Y23
+Y230	
+Y231	Yaraytyana language Y231
+Y232	
+Y233	Wakaman language Y233
+Y235	Dulgubarra Mamu language Y235
+Y236	Yintyingka language Y236
+Y237	Athina language Y237
+Y238	Injinoo Ikya language Y238
+Y239	Mabuyag language Y239
+Y24	Thaynakwith language Y24
+Y25	Mpalitjanh language Y25
+Y26	Linngithigh language Y26
+Y27	Ntrwa'ngayth language Y27
+Y28	Ungawangadi language Y28
+Y29	Yinwum language Y29
+Y3	Meriam Mir language Y3
+Y30	Ladamngid language Y30
+Y31	Mamangathi language Y31
+Y32	Alngith language Y32
+Y33	Gudjandju language Y33
+Y34	Arraythinngith?language Y34
+Y36	Ngkoth language Y36
+Y37	Trotj language Y37
+Y38	Yanganyu language Y38
+Y39	Ntra'ngith language Y39
+Y4	Kulkalgaw Ya language Y4
+Y40	Ndorndorin language Y40
+Y41	Mbiywom language Y41
+Y42	Andjingith language Y42
+Y43	Kugu Muminh language Y43
+Y44	Kaanju
+Y44	Kaantju language Y44
+Y45	Umpila language Y45
+Y46	Wik Adinda language Y46
+Y47	Wik Paach language Y47
+Y48	Wik Ompom language Y48
+Y49	Wik Elken language Y49
+Y5	Kawalgaw Ya language Y5
+Y50	Umpithamu language Y50
+Y51	Wik Ngatharr language Y51
+Y52	Wik Epa language Y52
+Y53	Wik Me'anh language Y53
+Y54	Wik Ngathan language Y54
+Y55	Morrobolam language Y55
+Y56	
+Y57	Wik Mungkan language Y57
+Y59	Kugu Nganhcara language Y59
+Y6	Djagaraga language Y6
+Y60	Ayapathu language Y60
+Y61	Flinders Island language Y67
+Y62	Barrow Point language Y63.1
+Y63	
+Y63.1	Barrow Point language Y63.1
+Y64	Pakanh language Y64
+Y65	Aghu Tharnggala language Y65
+Y66	Wurangung language Y66
+Y67	Flinders Island language Y67
+Y68	
+Y69	Kuuk Thaayorre language Y69
+Y7	Angkamuthi language Y7
+Y70	Yuwula language Y70
+Y71	Gugu Rarmul Y71
+Y72	Yir Yoront language Y72
+Y73	Uw Olkola language Y73
+Y74	Gugu Yawa language Y74
+Y75	A'ragu language Y75
+Y76	Gwandera language Y76
+Y78	Kuku Yalanji language Y78
+Y79	Guugu-Nyiguudyi language Y79
+Y8	Yadhaykenu language Y8
+Y80	Kuku-Warra language Y80
+Y81	Kuku Walandja language Y81
+Y82	Guugu Yimithirr language Y82
+Y83	Kunjen language Y83
+Y84	Kuku Thaypan language Y84
+Y85	Koko Bera language Y85
+Y86	Kuku Bididji language Y86
+Y87	Kuku Buyunji language Y87
+Y88	Banambila language Y88
+Y89	Kuku Tungay language Y89
+Y90	Kuku Nyungkul language Y90
+Y91	
+Y92	Kuku Yanyu language Y92
+Y93	Koko Dhawa language Y93
+Y94	Kuku Mini language Y94
+Y95	Kutjal language Y95
+Y96	
+Y97	Muluridji language Y97
+Y98	Kuku Waldja
+Y98	Wulpura language Y98
+Y99	Kuku Yalunyu language Y99

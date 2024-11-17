@@ -1,0 +1,80 @@
+A26	Djalgandi	WA
+A44	Djungurdja	
+A56	Dargudi	WA
+D45	Dharawala	QLD
+E16.1	Dinggabal	NSW
+E20	Duungidjawu	QLD
+E25	Dalla	QLD
+E27	Djagunda	QLD
+E46	DARUMBAL	QLD
+E6	Dhanggati	NSW
+E6	Dunghutti^	NSW
+E87	Dungibara	QLD
+G42	Dhidhani	NT
+G42	Dhidhani	QLD
+K47	Djerag	
+K50	Doolboong	WA
+K70	Dayiba	WA
+L14	Dhirari	SA
+L17	Dieri	SA
+L19	Dhiraila	QLD
+N115	Djambarrpuyngu	NT
+N116	Dhuwaya	NT
+N116.D	Dholpuyngu	
+N116.E	Dhpuyngu	NT
+N116.F	Dtiwuy	NT
+N116.G	Ding Ding	
+N116.H	Djamundja	
+N116.J	Djirin	
+N117	Djarrwark	NT
+N118	Dhay'yi	NT
+N122	Dhurili	NT
+N124	Dhmalamirr	NT
+N143	Djarn	
+N143.1	Dhalwangu	NT
+N145	Djapu	NT
+N149	Dhiyakuy	
+N168	Djimbilirri	NT
+N192	Dhangu	NT
+N195	Dhamarrangdji	NT
+N198	Dhuwal	NT
+N199	Dhuwala	NT
+N202	Djangu	NT
+N206	Djadiwitjibi	NT
+N209	Dbi	NT
+N30	Djowei	
+N38	Dagoman	NT
+N60	Dalabon	NT
+N84	Djarawala	
+N94.1	Djinang	NT
+N96	Dhaygurrgurr	NT
+N97	Djinba^	NT
+S20	Dhauwurd Wurrug^	VIC
+S22	Djadjala	VIC
+S26	Djab Wurrug^	VIC
+S28	Dadi Dadi	NSW
+S28	Dadi Dadi	VIC
+S31.1	Dja Dja Wurrug	VIC
+S44	Dhudhuroa	VIC
+S51	Dyirringañ	NSW
+S53	Dhurga	NSW
+S56	Dharamba	NSW
+S59	Dharawal	NSW
+S64	Darug	NSW
+S64	Dharug	NSW
+S65	Darkinyung	NSW
+S73	Djargurd Wurrong	VIC
+S95	Djilamatang	
+W16	Damala	
+W48	Djungundja	
+W65	Djiraly	
+Y106	Djabugay	QLD
+Y109	Djungan	QLD
+Y116	Djandjandji	
+Y123	DYIRBAL	QLD
+Y124	Djiru	QLD
+Y167	Dhalundhirr	QLD
+Y221	Di:ru	
+Y227	Daru	
+Y235	Dulgubarra Mamu	
+Y6	Djagaraga	QLD
